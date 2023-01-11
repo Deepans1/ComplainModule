@@ -1,0 +1,87 @@
+﻿body
+{
+    background-image: #f0f7f9;
+    background-image: -moz-linear-gradient(top, #f0f7f9 0%, #f0f7f9 100%, #c1bfea 100%);
+    background-image: -linear-gradient(bottom, rgb(248, 248, 248) 44%, rgb(248, 248, 248) 72%);
+    background-image: -o-linear-gradient(bottom, rgb(248, 248, 248) 44%, rgb(248, 248, 248) 72%);
+    background-image: -moz-linear-gradient(bottom, rgb(248, 248, 248) 44%, rgb(248, 248, 248) 72%);
+    background-image: -webkit-linear-gradient(bottom, rgb(248, 248, 248) 44%, rgb(248, 248, 248) 72%);
+    background-image: -ms-linear-gradient(bottom, rgb(248, 248, 248) 44%, rgb(248, 248, 248) 72%);
+    /*background-image: -webkit-gradient( 	linear, 	left bottom, 	left top, 	color-stop(0.44, rgb(199,181,195)), 	color-stop(0.72, rgb(196,181,192)) );*/
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-image: url('../Images/ThemeWhite/HeaderWhite.jpg');
+    height: 30px;
+    /* min-width:1020px;*/
+    background-size: 100% 30px;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+#tableclass {
+    background-color: #FFFFFF;
+    
+}
+
+#tableclass1 {
+    background-color: #adb5bd;
+}
+#tableclass2 {
+    background-color: #adb5bd;
+}
+
+#tableclass3 {
+    background-color: #adb5bd;
+}
+
+#tableclass4 {
+    background-color: #adb5bd;
+}
+
+
+#CardClass1 {
+    background-color: #F2EBF5;
+}
+
+#CardClass2 {
+    background-color: #F2EBF5;
+}
+
+#modalclass {
+    background-color: #F2EBF5;
+}
+
+
+/*#footer
+{*/
+    /*     background-image:url('../Images/ThemePurple/Footer_StlyePurple.jpg');     background-repeat:no-repeat;     background-attachment:scroll; */
+/*}*/
+
+.css_btn_class
+{
+    background-image: -webkit-gradient( 	linear, 	left top, 	left bottom, 	color-stop(0, #D1D6D6), 	color-stop(0.45, #D1D6D6) );
+    background-image: -o-linear-gradient(bottom, #D1D6D6 0%, #D1D6D6 45%);
+    background-image: -moz-linear-gradient(bottom, #D1D6D6 0%, #D1D6D6 45%);
+    background-image: -webkit-linear-gradient(bottom, #D1D6D6 0%, #D1D6D6 45%);
+    background-image: -ms-linear-gradient(bottom,#D1D6D6 0%, #D1D6D6 45%);
+    background-image: linear-gradient(to bottom, #D1D6D6 0%, #D1D6D6 45%);
+}
+.css_btn_class:hover
+{
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(57%, #d02416), color-stop(48%, #d02416) );
+    background: -moz-linear-gradient( center top, #d02416 57%, #d02416 48% );
+    background: -ms-linear-gradient( top, #d02416 57%, #d02416 48% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d02416', endColorstr='#d02416');
+   
+}
+.css_btn_class:active
+{
+    position: relative;
+    top: 1px;
+}

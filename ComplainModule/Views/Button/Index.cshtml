@@ -1,0 +1,167 @@
+﻿@{
+    ViewData["Title"] = "Complain Module";
+}
+<head>
+    <style type="text/css">
+        .card-body [class*="col-"]
+        {
+            padding: 5px;
+        }
+    </style>
+    
+</head>
+    <h2 class="text-center">Complain Query String Configuration</h2>
+<body>
+    <form class="needs-validation" id="QuerystringForm" onsonsubmit="return false">
+        <div class="container">
+            <div class="row gy-2">
+            <div class="form-group">
+                <div class="row">
+                        <h7 class="font-weight-bold" align="right" id="DisplayDayte"></h7>
+                <ul class="list-group">
+                    <li class="list-group-item">
+                            <label class="parameter">UserID:</label> <input type="text" class="form-control input-normal" id="User_ID" name="parameter0" maxlength="64" placeholder="Enter UserID" required>
+                            <div class="invalid-feedback">
+                                Please Enter a UserID.
+                            </div>
+                    </li>
+                    <li class="list-group-item">
+                            <label class="parameter">ClientCode:</label> <input type="text" class="form-control input-normal" id="client_code" name="parameter1" placeholder="Enter ClientCode" maxlength="64" required>
+                            <div class="invalid-feedback">
+                                Please Enter a ClientCode.
+                            </div>
+                    </li>
+                    <li class="list-group-item">
+                            <label class="parameter">CompanyNumber:</label> <input type="text" class="form-control input-normal" id="Company_Num" name="parameter2" placeholder="Enter CompanyNumber" maxlength="64" required>
+                            <div class="invalid-feedback">
+                                Please Enter a CompanyNum.
+                            </div>
+                    </li>
+                    <li class="list-group-item">
+                            <label class="parameter">CaseNumber:</label> <input type="text" class="form-control input-normal" id="Case_Num" name="parameter3" placeholder="Enter CaseNumber" maxlength="64" required>
+                            <div class="invalid-feedback">
+                                Please Enter a CaseNum.
+                            </div>
+                    </li>
+                    <li class="list-group-item">
+                            <label class="parameter">ClientID:</label> <input type="text" class="form-control input-normal" id="Client_ID" name="parameter4" placeholder="Enter ClientID" maxlength="64" required>
+                            <div class="invalid-feedback">
+                                Please Enter a ClientID.
+                            </div>
+                    </li>
+                    <li class="list-group-item">
+                            <label class="parameter">ThemeColor:</label> <input type="text" class="form-control input-normal" id="Theme_Color" name="parameter4" placeholder="Enter ThemeColor" maxlength="64" required>
+                            <div class="invalid-feedback">
+                                Please Enter a ThemeColor.
+                            </div>
+                    </li>
+                </ul>
+            </div>
+            </div>
+            </div>
+            <div class="btn-group" role="group" aria-label="Basic example">
+                <button type="button" id="add_parameters" class="btn btn-danger">Apply Configuration</button>&nbsp;
+                <button type="button" id="Complainteee" class="btn btn-success">Setup Complaint</button>
+            </div>
+            <br />
+        </div>
+        </form>
+    </body>
+@section Scripts
+{
+    <script src="https://cdn.jsdelivr.net/npm/gijgo@1.9.6/js/gijgo.min.js" type="text/javascript"></script>
+}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    $('#Complainteee').click(function () 
+    {
+        var User_Id1 = GetQuerystringValues('userID');
+        var client_code1 = GetQuerystringValues('Clientcode');
+        var Company_Num1 = GetQuerystringValues('CompanyNum');
+        var Case_Num1 = GetQuerystringValues('CaseNum');
+        var Client_ID1 = GetQuerystringValues('ClientID');
+        var Theme_Color1 = GetQuerystringValues('ThemeColor');
+            
+            function GetQuerystringValues(param) 
+            {
+                var url = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+                for (var i = 0; i < url.length; i++) 
+                {
+                    var urlparam = url[i].split('=');
+                 
+                    if (urlparam[0] == param) 
+                    {
+                        return urlparam[1];
+                    }
+                }
+            }
+           
+            var user_ID = User_Id1;
+            var client_code = client_code1;
+            var Company_Num = Company_Num1;
+            var Case_Num = Case_Num1;
+           
+            var Client_ID = Client_ID1;
+            var Theme_Color = Theme_Color1;
+
+        $.ajax({
+            type: "POST",
+            data:
+            {
+                    userID: user_ID,
+                    clientcode: client_code,
+                    CompanyNum: Company_Num,
+                    CaseNum: Case_Num,
+                    ClientID: Client_ID,
+                    ThemeColor: Theme_Color1,
+            },
+            cache: false,
+            async: true,
+            success: function (data)
+            {
+               window.location.href = "/ComplaintsSetup/ComplainList/Index?userID=" + user_ID + "&clientcode=" + client_code + "&CompanyNum=" + Company_Num + "&CaseNum=" + Case_Num + "&ClientID=" + Client_ID + "&ThemeColor=" + Theme_Color1;
+                //window.location.href = "../ComplainList/Index?userID=" + user_ID + "&clientcode=" + client_code + "&CompanyNum=" + Company_Num + "&CaseNum=" + Case_Num + "&ClientID=" + Client_ID + "&ThemeColor=" + Theme_Color1;
+            }
+        });
+    });
+</script>
+
+<script>
+        $('#add_parameters').click(function ()
+        {
+            var form = $("#QuerystringForm")
+            if (form[0].checkValidity() === false)
+            {
+                event.preventDefault()
+                event.stopPropagation()
+            }
+            else
+            {
+                var userids = document.getElementById('User_ID').value;
+                var client_codes = document.getElementById('client_code').value;
+                var Company_Nums = document.getElementById('Company_Num').value;
+                var Case_Nums = document.getElementById('Case_Num').value;
+                var Client_IDs = document.getElementById('Client_ID').value;
+                var Theme_Colors = document.getElementById('Theme_Color').value;
+
+               window.location.href = "/ComplaintsSetup/Button/Index?userID=" + userids + "&Clientcode=" + client_codes + "&CompanyNum=" + Company_Nums + "&CaseNum=" + Case_Nums + "&ClientID=" + Client_IDs + "&ThemeColor=" + Theme_Colors;
+               //window.location.href = "../Button/Index?userID=" + userids + "&Clientcode=" + client_codes + "&CompanyNum=" + Company_Nums + "&CaseNum=" + Case_Nums + "&ClientID=" + Client_IDs + "&ThemeColor=" + Theme_Colors;
+            }
+            form.addClass('was-validated');
+        });
+</script>
+
+<script>
+        $(document).ready(function () 
+        {
+            const dateDiv = document.getElementById('DisplayDayte');
+
+            function myDateFunction() 
+            {
+                const now = new Date();
+                const nowStr = now.toLocaleString('en-US');
+                dateDiv.innerHTML = nowStr;
+            }
+            setInterval(myDateFunction, 1000);
+        });
+</script>

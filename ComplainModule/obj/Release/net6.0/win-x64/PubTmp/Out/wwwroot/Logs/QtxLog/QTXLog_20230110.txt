@@ -1,0 +1,23 @@
+[1/10/2023 12:42:08 PM] : Complain Form Load
+[1/10/2023 12:42:08 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/10/2023 12:42:09 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/10/2023 12:42:10 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/10/2023 12:47:40 PM] : Complain Form Load
+[1/10/2023 12:47:49 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/10/2023 12:47:50 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/10/2023 12:47:51 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/10/2023 12:49:12 PM] : Complain Form Load
+[1/10/2023 12:49:16 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/10/2023 12:49:17 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/10/2023 12:49:18 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/10/2023 3:52:19 PM] : Complain Form Load
+[1/10/2023 3:52:22 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/10/2023 3:52:23 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/10/2023 3:52:24 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/10/2023 3:53:13 PM] : complainForm.CFPB  is:-False
+[1/10/2023 3:53:13 PM] : complainForm.Close  is:-True
+[1/10/2023 3:53:13 PM] : Complainttype is:-02
+[1/10/2023 3:53:13 PM] : SeverityType is:-01
+[1/10/2023 3:53:13 PM] : Status is:-01
+[1/10/2023 3:53:13 PM] : UserID1 is:-KANDEE
+[1/10/2023 3:53:26 PM] : Complain Result is:-Complain Successfully Saved

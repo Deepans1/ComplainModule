@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplainModule", "ComplainModule\ComplainModule.csproj", "{2E94D144-147F-4D79-A783-F1DFDD039775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCodeLib", "..\..\Complaints\complaints\SmartCodeLib\SmartCodeLib.csproj", "{DEB2C714-A54C-4C5C-A258-5CD07F492BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E94D144-147F-4D79-A783-F1DFDD039775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E94D144-147F-4D79-A783-F1DFDD039775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E94D144-147F-4D79-A783-F1DFDD039775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E94D144-147F-4D79-A783-F1DFDD039775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEB2C714-A54C-4C5C-A258-5CD07F492BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB2C714-A54C-4C5C-A258-5CD07F492BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB2C714-A54C-4C5C-A258-5CD07F492BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB2C714-A54C-4C5C-A258-5CD07F492BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC344FF-66B9-4B4E-BD4A-7B3DA0FD4610}
+	EndGlobalSection
+EndGlobal

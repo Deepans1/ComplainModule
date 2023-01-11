@@ -1,0 +1,533 @@
+﻿@model ComplainModule.Models.ComplainForm;
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor;
+
+@{
+    ViewData["Title"] = "Complain Module";
+}
+<head>
+    <style type="text/css">
+        .card-body [class*="col-"]
+        {
+            padding: 5px;
+        }
+    </style>
+</head>
+
+<h2 id="header"></h2>
+<body>
+  <form class="needs-validation" id="contact-form" onsonsubmit="return false">
+        <div class="container">
+            <div class="row gy-2">
+                <div id="CardClass1" class="card">
+                    <div id="CardClass2" class="card-body">
+                        <div class="input-group mb-5">
+                            <div class="col-sm-4">
+                                <label for="Comapony">Company</label>
+                                <input type="text" id="Company" class="form-control" placeholder="Enter Company Name" value="@Accessor.HttpContext.Session.GetInt32("CompanyNum")" aria-label="Company" readonly required>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for="ClientCodejgj">Client Code</label>
+                                <input type="text" id="ClientCode" class="form-control" placeholder="Enter Client Code" value="@Accessor.HttpContext.Session.GetInt32("clientcode")" aria-label="Client Code" readonly required>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for="Case">Case No</label>
+                                <input type="text" id="CaseNo" class="form-control" placeholder="Enter Case No" aria-label="Case No" value="@Accessor.HttpContext.Session.GetString("CaseNum")" readonly required>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div id="CardClass1" class="card">
+                    <div id="CardClass2" class="card-body">
+                        <div class="input-group mb-5">
+                            <div class="col-sm-4">
+                                <label for="InqStart">Inq.Start date</label>
+                                <input type="text" id="InqStartdate" class="form-control" placeholder="InqStart date  " aria-label="kdajdkda" value="@DateTime.Now.ToShortDateString()" readonly required>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for="Collectorrepl">Collector reply date</label>
+                                <input type="text" id="Collectorreplydate" class="form-control" placeholder="Collector reply date " aria-label="sfsfsfs " value="@DateTime.Now.ToShortDateString()" readonly required>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for="Complainttype">Complaint type</label>
+                                <select class="form-control" id="Complaintype">
+                                    @if (ViewBag.Complaintype != null)
+                                    {
+                                        @foreach (var ComplainTypes in ViewBag.Complaintype)
+                                        {
+                                            <option value="@ComplainTypes.ComplainTypeId">@ComplainTypes.Complainttype</option>
+                                        }
+                                    }
+                                </select>
+                            </div>
+
+                            <div class="col-sm-4">
+                                <label for="Severityofcomplaint" id="Severityofcomplaint">Severity of complaint</label>
+                                <select class="form-control" id="SeverityType">
+                                    @if (ViewBag.SeverityType != null)
+                                    {
+                                        @foreach (var SeverityType in ViewBag.SeverityType)
+                                        {
+                                            <option value="@SeverityType.SeverityTypeId">@SeverityType.SeverityType</option>
+                                        }
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="CardClass1" class="card">
+                    <div id="CardClass2" class="card-body">
+                        <div class="row">
+                            <div class="input-group mb-5">
+                                <div class="col-sm-4">
+                                    <label for="Complaintfilledby">Complaint filled by</label>
+                                    <input type="text" id="Complaintfilledby" class="form-control" placeholder="Complaint filled by" aria-label="Complaint filled by" required>
+                                    <div class="invalid-feedback">
+                                        Please type Complaintfilledby
+                                      </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <label for="ExtraAddress">Extra Address</label>
+                                    <input type="text" id="ExtraAddress" class="form-control" placeholder="Extra Address" aria-label="Extra Address" required>
+                                   <div class="invalid-feedback">
+                                        Please type ExtraAddress
+                                      </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <label for="StreetAddress">Street Address</label>
+                                    <input type="text" id="StreetAddress" class="form-control" placeholder="Street Address" aria-label="Street Address" required>
+                                    <div class="invalid-feedback">
+                                        Please type StreetAddress
+                                      </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <label for="City">City</label>
+                                    <input type="text" id="City" class="form-control" placeholder="City" aria-label="City" required>
+                                    <div class="invalid-feedback">
+                                        Please type City
+                                      </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <label for="State">State</label>
+                                    <input type="text" id="State" class="form-control" placeholder="State" aria-label="State" required>
+                                      <div class="invalid-feedback">
+                                        Please type State
+                                      </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <label for="Zip">Zip</label>
+                                    <input type="text" id="Zip" class="form-control" placeholder="Zip" aria-label="Zip" required>
+                                     <div class="invalid-feedback">
+                                        Please type Zip Code
+                                      </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <label for="Phone">Phone</label>
+                                    <input type="text" id="Phone" class="form-control" placeholder="Phone" aria-label="Phone" required>
+                                     <div class="invalid-feedback">
+                                        Please type PhoneNo
+                                      </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="CardClass1" class="card">
+                    <div id="CardClass2" class="card-body">
+                        <div class="input-group mb-3">
+                            <div class="col-sm-4">
+                                <label for="DateEventsdsd">Date Of Event</label>
+                                <input type="date" id="EventDate" class="form-control" placeholder="Date Of Event" aria-label="Date" required>
+                                  <div class="invalid-feedback">
+                                        Please Select Correct Date
+                                      </div>
+                            </div>
+
+                            <div class="col-sm-4">
+                                <label for="Reported">Reported Through</label>
+                                <select class="form-control" id="Reported">
+                                    @if (ViewBag.ReportedThrough != null)
+                                    {
+                                        @foreach (var Reported in ViewBag.ReportedThrough)
+                                        {
+                                            <option value="@Reported.ReportTypeId">@Reported.Reported</option>
+                                        }
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="CardClass1" class="card">
+                    <div id="CardClass2" class="card-body">
+                        <div class="input-group mb-5">
+                            <div class="col-sm-4">
+                                <label for="Designation">
+                                    Complaint against
+                                    (Designation)
+                                </label>
+                                <input type="text" id="Designation" class="form-control" placeholder="Enter The Designation" aria-label="Designation" required>
+                                <div class="invalid-feedback">
+                                    Please type Designation
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for="UID">
+                                    Complaint against
+                                    (UID)
+                                </label>
+                                <input type="text" id="UID" class="form-control" placeholder="ENTER UID(ALL LETTERS CAPTIAL)" aria-label="UID" required>
+                                <div class="invalid-feedback">
+                                    Please Type UID
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="CardClass1" class="card">
+                    <div id="CardClass2" class="card-body">
+                        <div class="input-group mb-5">
+                            <div class="col-sm-4">
+                                <label for="Designation">
+                                    Description Title
+                                </label>
+                                <input type="text" id="Title" class="form-control" placeholder="Title" aria-label="Title" required>
+
+                                  <div class="invalid-feedback">
+                                    Please type Title
+                                      </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for="UID">
+                                    Description
+
+                                </label>
+                                <textarea class="form-control" id="Description" rows="6" style="min-width: 100%" placeholder="Enter Description" required></textarea>
+                                 <div class="invalid-feedback">
+                                    Please type Description
+                                      </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="CardClass1" class="card">
+                    <div id="CardClass2" class="card-body">
+                        <div class="input-group mb-5">
+
+                            <div class="col-sm-4">
+                                <label for="Status">Status</label>
+                                <select class="form-control" id="Status">
+                                    @if (ViewBag.Status != null)
+                                    {
+                                        @foreach (var Status in ViewBag.Status)
+                                        {
+                                            <option value="@Status.StatusId">@Status.Status</option>
+                                        }
+                                    }
+                                </select>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for="CompanyCost">Cost to Company</label>
+                                <input type="text" id="CompanyCost" class="form-control" placeholder="Cost to Company" aria-label="Cost to Company" required>
+                                 <div class="invalid-feedback">
+                                    Please type CompanyCost
+                                      </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for=" Howavoidable">How avoidable</label>
+                                <input type="text" id="avoidable" class="form-control" placeholder="How avoidable" aria-label="How avoidable" required>
+                                <div class="invalid-feedback">
+                                    Please type avoidable
+                                      </div>
+                            </div>
+                            <label for="Avoidable(Y,N)">Avoidable (Y,N)</label>
+                            <div class="form-check">
+                                 <label class="form-check-label" for="flexCheckDefault">
+                                    Yes
+                                </label>
+                                <input class="form-check-input" type="checkbox" value="" id="AvoidableYes">
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label" for="flexCheckChecked">
+                                    No
+                                </label>
+                                <input class="form-check-input" type="checkbox" value="" id="AvoidableNo">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="CardClass1" class="card">
+                    <div id="CardClass2" class="card-body">
+                        <div class="input-group mb-15">
+                            <div class="col-sm-4">
+                                <label for="CFPB related (Y)">CFPB related (Y)</label>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="CFPB">
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for=" Date recieved ">Date recieved</label>
+                                <input type="date" id="DateRec" class="form-control" placeholder=" Date recieved " aria-label=" Date recieved ">
+                            </div>
+                            <div class="col-sm-4">
+                                 <label for="Close(Y)">Close (Y)</label>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="Close">
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               
+                <div id="CardClass1" class="card">
+                    <div id="CardClass2" class="card-body">
+                        <div class="input-group mb-5">
+                            <div class="col-sm-4">
+                                <label for="Manager">Manager reply date</label>
+                                <input type="text" id="ManagerDate" class="form-control" placeholder="Manager  reply date  " aria-label="Manager reply date" value="@DateTime.Now.ToShortDateString()" readonly>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for="Date client contact">Date client contact</label>
+                                <input type="text" id="Datecli" class="form-control" placeholder="Date client contact" aria-label="Date client contact" value="@DateTime.Now.ToShortDateString()" readonly>
+                            </div>
+                            <div class="col-sm-4">
+                                <label for="Follow-up date">Follow-up date</label>
+                                <input type="date" id="Follow" class="form-control" placeholder="Follow-up date  " aria-label="Follow-up date" required>
+                                <div class="invalid-feedback">
+                                    Please Select a Follow Date
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="CardClass" class="second">
+                    <div>
+                        <div class="spinner-border" role="status" id="img" style="display:none">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </div>
+                    <div id="CardClass" class="col-md-12 text-center">
+                        <button class="css_btn_class" id="SaveComplaint" type="button">Save Complaint</button>
+                        <button class="css_btn_class" id="ComplainList" type="button">Complaint List</button>
+                        <button class="css_btn_class" id="config" type="submit">New Complain Configuration</button>
+                    </div>
+                </div>
+                <div>
+                </div>
+            </div>
+            <br />
+        </div>
+      </form>
+</body>
+@*@section Scripts
+    {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}*@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+   $('#SaveComplaint').click(function ()
+   {
+       $('#img').show();
+       var AvoidableYes = document.getElementById("AvoidableYes").checked;
+       var AvoidableNo = document.getElementById("AvoidableNo").checked;
+       var CFPB = document.getElementById("CFPB").checked;
+       var Close = document.getElementById("Close").checked;
+
+       var form = $("#contact-form")
+       if (form[0].checkValidity() === false) 
+       {
+          event.preventDefault()
+          event.stopPropagation()
+          $("#img").hide();
+       }
+      else
+      {      
+            $.ajax
+            ({
+                    type: 'POST',
+                    url: "@(Url.Action("Index", "Home"))",
+                    data: 
+                    {
+                        InqStartdate: document.getElementById("InqStartdate").value,
+                        Collectorreplydate: document.getElementById("Collectorreplydate").value,
+                        Complainttype: document.getElementById("Complaintype").value,
+                        SeverityType: document.getElementById("SeverityType").value,
+                        Complaintfilledby: document.getElementById("Complaintfilledby").value,
+                        ExtraAddress: document.getElementById("ExtraAddress").value,
+                        StreetAddress: document.getElementById("StreetAddress").value,
+                        City: document.getElementById("City").value,
+                        State: document.getElementById("State").value,
+                        Zip: document.getElementById("Zip").value,
+                        Phone: document.getElementById("Phone").value,
+                        EventDate: document.getElementById("EventDate").value,
+                        Reported: document.getElementById("Reported").value,
+                        Title: document.getElementById("Title").value,
+                        Daterecieved: document.getElementById("DateRec").value,
+                        Description: document.getElementById("Description").value,
+                        UID: document.getElementById("UID").value,
+                        Designation: document.getElementById("Designation").value,
+                        Status: document.getElementById("Status").value,
+                        CompanyCost: document.getElementById("CompanyCost").value,
+                        AvoidableYes: AvoidableYes,
+                        AvoidableNo: AvoidableNo,
+                        Howavoidable: document.getElementById("avoidable").value,
+                        CFPB: CFPB,
+                        Close: Close,
+                        MangerReplyDate: document.getElementById("ManagerDate").value,
+                        DateclientId: document.getElementById("Datecli").value,
+                        Follow: document.getElementById("Follow").value,
+                        CaseNo: document.getElementById("CaseNo").value,
+                        Company: document.getElementById("Company").value,
+                        ClientCode: document.getElementById("ClientCode").value
+                    },
+               cache: false,
+               async: true,
+               success: function (data)
+               {
+                    if (data.message == "Savesuccess")
+                    {
+                       swal({ title: "Complain Save!", text: "Complain Save SuccessFully Now!", icon: "success", button: "Ok!", });
+                       setTimeout(function () {
+                          $("#img").hide();
+                       }, 10);
+                    }  
+                    if (data.message == "alreadyexit")
+                    {
+                         swal({ title: "Description exist!", text: "Description title already exist!", icon: "error", button: "Ok!", });
+                            $("#img").hide();
+                    }
+
+                    if (data.message == "failed") 
+                    {
+                       swal({ title: "Error in the Database!", text: "Saving Error in the Database!!", icon: "error", button: "Ok!", });
+                            $("#img").hide();
+                     }
+
+                        if (data.message == "invalid")
+                        {
+                        swal({ title: "Invalid!", text: "Invalid user id!!", icon: "error", button: "Ok!", });
+                            $("#img").hide();
+                    }
+               },
+                error: function (data)
+                {
+                        if (data.message == "Exmessage") {
+                            swal({ title: "wrong!", text: "Something went wrong please check!", icon: "error", button: "Ok!", });
+                            $("#img").hide();
+                   }
+                }
+                
+            });
+      }
+        form.addClass('was-validated');
+      
+    });
+</script>
+
+<script>
+    $('#EventDate').change(function ()
+    {
+        var TodayDate = $("#EventDate").val();
+        var date1 = new Date();
+        var today = new Date();
+        var dd = String(today.getDate()).padStart(2, '0');
+        var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+        var yyyy = today.getFullYear();
+        today = yyyy + '-' + mm + '-' + dd
+        if (TodayDate > today) 
+        {
+            swal("Date of event cannot be a future date", "Error!", "error");
+            document.getElementById('EventDate').value = "";
+        }
+    });
+</script>
+
+<script>
+    $('#DateRec').change(function ()
+    {
+        var TodayDate = $("#DateRec").val();
+        var today = new Date();
+        var dd = String(today.getDate()).padStart(2, '0');
+        var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+        var yyyy = today.getFullYear();
+        today = yyyy + '-' + mm + '-' + dd
+        if (TodayDate > today) 
+        {
+            swal("Date of event cannot be a future date", "Error!", "error");
+            document.getElementById('DateRec').value = "";
+        }
+    });
+</script>
+
+<script>
+    $('#Follow').change(function ()
+    {
+        var TodayDate = $("#Follow").val();
+        var today = new Date();
+        var dd = String(today.getDate()).padStart(2, '0');
+        var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+        var yyyy = today.getFullYear();
+        today = yyyy + '-' + mm + '-' + dd
+        if (TodayDate < today)
+        {
+            swal("Follow up date should not be a past date!!!", "Error!", "error");
+            document.getElementById('Follow').value = "";
+        }
+
+    });
+</script>
+
+<script>
+    $('#ComplainList').click(function () 
+    {
+        $.ajax({
+            type: "GET",
+            url: "@(Url.Action("LoadList", "Home"))",
+            data:
+            {
+          
+            },
+            cache: false,
+            async: true,
+            success: function (data)
+            {
+                   var Company = data[0].companyNum;
+                   var CaseNo =data[0].caseNum;
+                   var Client_FDF = data[0].client_code;
+                   var UserId=data[0].user_ID;
+                   var ClientId=data[0].clientID;
+                window.location.href = "/ComplaintsSetup/ComplainList/Index?userID=" + UserId + "&clientcode=" + Client_FDF + "&CompanyNum=" + Company + "&CaseNum=" + CaseNo + "&ClientID=" + ClientId;
+               
+            }
+        });
+    });
+</script>
+
+ <script>
+    $('#config').click(function () 
+    {
+        $.ajax({
+           
+            type: "Get",
+            data:
+            {
+              
+            },
+            cache: false,
+            async: true,
+            success: function (data) 
+            {
+               window.location.href = "/ComplaintsSetup/Button/Index";
+            }
+        });
+    });
+</script>

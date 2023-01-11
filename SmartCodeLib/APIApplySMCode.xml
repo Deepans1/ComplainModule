@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<IntelecAPI>
+
+  <function name="APPLY_SMART" nodataelements="4">
+
+
+    <!-- API Header Part -->
+    <!--<data name="IA_VERNO" type="char" length="6" init="V8R0M0" />
+    <data name="IA_BCODE" type="zoned" length="4" precision="0" init="0005"/>
+    <data name="IA_RSLT"  type="char" length="4" init="0000" />
+    <data name="IA_DATE" type="zoned" length="8" precision="0" init="0" />
+    <data name="IA_TIME" type="zoned" length="6" precision="0" init="0"/>
+    <data name="IA_USER" type="char" length="10" init="IVRITEL   "/>
+    <data name="IA_APP"  type="char" length="5" init="IVR  "/>
+    <data name="IA_ACCBY"  type="char" length="15" init=""/>-->
+
+    <!-- Input company and Account Number-->
+    <data name="INP_COMPN"  type="zoned" length="2" precision="0" init="0" />
+    <data name="INP_CASEN" type="zoned" length="9" precision="0" init="0" />
+    <data name="INP_RACTCD" type="zoned" length="3" precision="0" init="000" />
+    <data name="OUT_ERTXT" type="zoned" length="4" precision="0" init="000"/>
+
+    <!--Output values-->
+    <!--
+    
+    <data name="INP_RPROMD" type="zoned" length="8" precision="0" init="0"/>
+    <data name="INP_RPRMDY" type="zoned" length="3" precision="0" init="0"/>
+    <data name="INP_RPROMA" type="zoned" length="9" precision="2" init="0"/>
+    <data name="INP_RCODE" type="char" length="2" init=""/>
+    <data name="INP_RTEXT" type="char" length="500" init=""/>
+    <data name="INP_RQCAT" type="zoned" length="3" precision="0" init="0" />
+    <data name="INP_RLTRCD" type="char" length="2" init=""/>
+    <data name="INP_RACAT" type="char" length="2" init=""/>
+    <data name="INP_RTIMFR" type="char" length="1" init=""/>
+    <data name="OUT_SMERR" type="char" length="4" init=""/>
+    <data name="OUT_ERTXT" type="char" length="132" init=""/>-->
+
+
+  </function>
+
+</IntelecAPI>

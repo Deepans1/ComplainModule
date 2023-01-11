@@ -1,0 +1,87 @@
+﻿body
+{
+    background-image: #ffeec5;
+    background-image: -moz-linear-gradient(top, #ffeec5 0%, #ffeec5 100%, #ffeec5 100%);
+    background-image: -linear-gradient(top, #ffeec5 0%, #ffeec5 100%, #ffeec5 100%);
+    background-image: -o-linear-gradient(top, #ffeec5 0%, #ffeec5 100%, #ffeec5 100%);
+    background-image: -moz-linear-gradient(top, #ffeec5 0%, #ffeec5 100%, #ffeec5 100%);
+    background-image: -webkit-linear-gradient(top, #ffeec5 0%, #ffeec5 100%, #ffeec5 100%);
+    background-image: -ms-linear-gradient(top, #ffeec5 0%, #ffeec5 100%, #ffeec5 100%); 
+    /*background-image: -webkit-gradient( 	linear, 	left bottom, 	left top, 	color-stop(0.4, rgb(255, 248, 232)), 	color-stop(0.7,rgb(230,188,88)) );*/
+    background-repeat:repeat-y;
+    background-attachment: scroll;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-image: url('../Images/ThemeOrange/headerOange.jpg');
+    height: 30px;
+    /*min-width: 1024px;*/
+    background-size: 100% 30px;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+/*#footer
+{*/
+    /*background-image:url('../Images/ThemeOrange/Footer_StyleOrange.jpg');     background-repeat:no-repeat;     background-attachment:scroll;*/
+/*}*/
+
+#tableclass {
+    background-color: #FFEEC5;
+
+}
+#tableclass1 {
+    background-color: #FFEEC5;
+}
+
+#tableclass2 {
+    background-color: #FFEEC5;
+}
+
+#tableclass3 {
+    background-color: #FFEEC5;
+}
+#tableclass4 {
+    background-color: #FFEEC5;
+}
+
+#CardClass1 {
+    background-color: #FFEEC5;
+}
+
+#CardClass2 {
+    background-color: #FFEEC5;
+}
+
+#modalclass {
+    background-color: #FFEEC5;
+}
+
+.ChangeCololor {
+    background-color: #FFEEC5;
+}
+.css_btn_class {
+    background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #B88A00), color-stop(1, #5C3F1F) );
+    background-image: -o-linear-gradient(bottom, #B88A00 0%, #5C3F1F 100%);
+    background-image: -moz-linear-gradient(bottom, #B88A00 0%, #5C3F1F 100%);
+    background-image: -webkit-linear-gradient(bottom, #B88A00 0%, #5C3F1F 100%);
+    background-image: -ms-linear-gradient(bottom, #B88A00 0%, #5C3F1F 100%);
+    background-image: linear-gradient(to bottom, #B88A00 0%, #5C3F1F 100%);
+    color:white;
+}
+
+.css_btn_class:hover
+{
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(57%, #967117), color-stop(48%, #967117) );
+    background: -moz-linear-gradient( center top, #967117 57%, #967117 48% );
+    background: -ms-linear-gradient( top, #967117 57%, #967117 48% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe5a6', endColorstr='#967117');
+    
+}
+.css_btn_class:active
+{
+    position: relative;
+    top: 1px;
+}

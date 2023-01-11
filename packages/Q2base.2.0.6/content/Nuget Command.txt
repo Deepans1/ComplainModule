@@ -1,0 +1,13 @@
+﻿nuget pack Q2base.csproj -Version 2.0.5
+
+nuget push Q2base.2.0.5.nupkg bandabandaqx1# -Source http://192.169.0.212/qtxnuget/nuget
+
+
+
+dotnet nuget push Q2base.2.0.4.nupkg --source "github"
+
+nuget sources Add -Name "github" -Source https://nuget.pkg.github.com/indikaaqxs/index.json -UserName inidkaa@quantrax.com -Password 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
+
+nuget setapikey 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 -Source "github"
+
+nuget push Q2base.2.0.5.nupkg -source "github" -SkipDuplicate

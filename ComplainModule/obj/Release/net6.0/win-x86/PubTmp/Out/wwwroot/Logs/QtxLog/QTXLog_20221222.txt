@@ -1,0 +1,44 @@
+[12/22/2022 8:04:58 AM] : Total Record Count Is:81
+[12/22/2022 8:05:39 AM] : Update Is:Updated Has been Done
+[12/22/2022 8:05:40 AM] : Total Record Count Is:81
+[12/22/2022 10:11:29 AM] : Total Record Count Is:81
+[12/22/2022 10:45:40 AM] : Total Record Count Is:81
+[12/22/2022 11:19:30 AM] : Total Record Count Is:0
+[12/22/2022 11:22:01 AM] : Total Record Count Is:0
+[12/22/2022 11:22:01 AM] : Complain Form Load
+[12/22/2022 11:22:02 AM] : Total Record Count Is:0
+[12/22/2022 11:22:02 AM] : Complain Form Load
+[12/22/2022 11:22:02 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/22/2022 11:22:06 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/22/2022 11:22:07 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/22/2022 11:22:07 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/22/2022 11:22:08 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/22/2022 11:22:08 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/22/2022 11:23:01 AM] : complainForm.CFPB  is:-False
+[12/22/2022 11:23:01 AM] : complainForm.Close  is:-True
+[12/22/2022 11:23:01 AM] : Complainttype is:-02
+[12/22/2022 11:23:01 AM] : SeverityType is:-01
+[12/22/2022 11:23:01 AM] : Status is:-01
+[12/22/2022 11:23:01 AM] : UserID1 is:-KANDEE
+[12/22/2022 11:23:03 AM] : selected sequence:elected sequence!
+[12/22/2022 11:23:03 AM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/22/2022 11:23:06 AM] : res:False
+[12/22/2022 11:23:06 AM] : About to insert complaint:About to insert complaint!
+[12/22/2022 11:23:07 AM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/22/2022 11:23:08 AM] : IsStatus is:True
+[12/22/2022 11:23:08 AM] : Complain Result is:-Complain Successfully Saved
+[12/22/2022 11:23:14 AM] : Total Record Count Is:1
+[12/22/2022 11:23:28 AM] : Update Is:Updated Has been Done
+[12/22/2022 11:23:29 AM] : Total Record Count Is:1
+[12/22/2022 12:17:24 PM] : Total Record Count Is:1
+[12/22/2022 12:43:53 PM] : Total Record Count Is:1
+[12/22/2022 12:46:27 PM] : Total Record Count Is:1
+[12/22/2022 12:51:02 PM] : Total Record Count Is:1
+[12/22/2022 2:04:23 PM] : Total Record Count Is:1
+[12/22/2022 2:43:38 PM] : Total Record Count Is:1
+[12/22/2022 2:44:03 PM] : UpdateComplnt.Message is:Casenumber must have 11 digits!
+[12/22/2022 2:45:16 PM] : Total Record Count Is:1
+[12/22/2022 2:47:09 PM] : Total Record Count Is:1
+[12/22/2022 2:47:35 PM] : Update Is:Updated Has been Done
+[12/22/2022 2:47:36 PM] : Total Record Count Is:1
+[12/22/2022 3:00:03 PM] : Total Record Count Is:1

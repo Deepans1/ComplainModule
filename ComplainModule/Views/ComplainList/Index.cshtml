@@ -1,0 +1,254 @@
+﻿@using System.Data
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor;
+@model ComplainModule.Models.ComplainForm;
+@{
+    ViewData["Title"] = "Complain List";
+}
+<head>
+    <style type="text/css">
+        .card-body [class*="col-"] 
+        {
+            padding: 5px;
+        }
+    </style>
+    <style>
+        #cover-spin {
+    position:fixed;
+    width:100%;
+    left:0;right:0;top:0;bottom:0;
+    background-color: rgba(255,255,255,0.7);
+    z-index:9999;
+    display:none;
+}
+
+-webkit-keyframes spin {
+	from {-webkit-transform:rotate(0deg);}
+	to {-webkit-transform:rotate(360deg);}
+}
+
+keyframes spin {
+	from {transform:rotate(0deg);}
+	to {transform:rotate(360deg);}
+}
+
+#cover-spin::after {
+    content:'';
+    display:block;
+    position:absolute;
+    left:48%;top:40%;
+    width:40px;height:40px;
+    border-style:solid;
+    border-color:black;
+    border-top-color:transparent;
+    border-width: 4px;
+    border-radius:50%;
+    -webkit-animation: spin .8s linear infinite;
+    animation: spin .8s linear infinite;
+}
+    </style>
+</head>
+<h2 id="header"></h2>
+ <body>
+    <div class="container">
+            <div class="row gy-2">
+            <div id="CardClass1" class="card">
+                <div id="CardClass2" class="card-body">
+                    <div class="input-group mb-5">
+                        <div class="col-sm-4">
+                            <label for="Status">Company</label>
+                            <input type="text" id="Company" class="form-control" placeholder="Enter the Company"   value="@Accessor.HttpContext.Session.GetInt32("CompanyNum")" aria-label="Company" readonly>
+                            </div>
+
+                        <div class="col-sm-4">
+                            <label for="ClientCode">Case No</label>
+                            <input type="text" id="CaseNo" class="form-control" placeholder="Enter Case No" value="@Accessor.HttpContext.Session.GetString("CaseNum")" aria-label="Case No" readonly>
+                            </div>
+                            </div>
+                    </div>
+              
+                 </div>
+            <div class="second">
+                <div class="col-md-12 text-center">
+                    <button class="css_btn_class" id="ListId" type="submit">New Complaint</button>
+                </div>
+            </div>
+           
+            <div class="container" style="padding: 50px;">
+                <div class="row">
+                    <table class="table table-striped table-hover" style="width:100%" id="Complain">
+                        <thead class=thead-dark>
+                            <tr>
+                                <th id="tableclass">CompanyNo</th>
+                                <th id="tableclass1">CaseNo</th>
+                                <th id="tableclass2">Status</th>
+                                <th id="tableclass3">ComplainFilledBy</th>
+                                <th id="tableclass4">Action</th>
+                            </tr>
+                        </thead>
+                        @if (ViewBag.List != null)
+                        {
+                            @foreach (var Complainist in ViewBag.List)
+                            {
+                                <tr>
+                                    <td>@Complainist.Company</td>
+                                    <td>@Complainist.CaseNo</td>
+                                    <td>@Complainist.Status</td>
+                                    <td>@Complainist.Complaintfilledby</td>
+                                    <td><a href="#" id="btnEdit" class="css_btn_class btn-sm" data-id=@Complainist.ClientCode>Edit</a></td>
+                                   
+                                </tr>
+                            }
+                        }
+                    </table>
+                </div>
+                </div>
+               @* <div class="card-body">*@
+                    @*<div class="input-group mb-9">
+                        <div class="col-sm-4">
+                    <div class="row justify-content-center">
+                        <div class="col-auto">
+
+                           
+                           
+                        </div>
+                    </div>
+                    </div>*@
+               @* </div>*@
+
+            <div id="MyPopup" class="modal fade" role="dialog">
+                <div id="modalclass" class="modal-dialog" role="dialog">
+                    <div id="modalclass" class="modal-content">
+                        <div id="modalclass" class="modal-header">
+                            <h5 class="modal-title">Complain Update Information</h5>
+                                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                        </div>
+                        <div id="modalclass" class="modal-body">
+                            <div class="form-group">
+                                Company: <input id="Companyss" class="form-control" readonly="readonly" />
+                            </div>
+                            <div class="form-group">
+                                CaseNo: <input id="CaseNosss" asp-for="Name" class="form-control" readonly="readonly" />
+                            </div>
+                            <div class="form-group">
+                                Complaintfilledby: <input id="Complaintfilledby" class="form-control" />
+                            </div>
+                            <div class="form-group">
+                                Status: <input id="Status" class="form-control" />
+                            </div>
+                        </div>
+                        <div id="modalclass" class="modal-footer">
+                            <div>
+                                <div class="spinner-border" role="status" id="img" style="display:none">
+                                    <span class="visually-hidden">Loading...</span>
+                                </div>
+                                
+                            </div>
+                            <button type="button" id="update" class="css_btn_class">Update Complaint</button>
+                                <button type="button" class="css_btn_class" data-bs-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            <br />
+        </div>
+        </div>
+        </div>
+    </body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+ 
+<script>
+    $('#ListId').click(function () {
+        $.ajax({
+           
+            type: "Get",
+            data:
+            {
+              
+            },
+            cache: false,
+            async: true,
+            success: function (data) 
+            {
+               window.location.href = "../Home/Index?f=y";
+            }
+        });
+    });
+</script>
+<script>
+    $(document).ready(function () 
+    {
+        $('#Complain').dataTable
+        ({
+            "searching": false
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    $(function () 
+    {
+        $("body").on('click', '#btnEdit', function () {
+            $("#MyPopup").modal("hide");
+            var obj = {};
+            obj.Id = $(this).attr('data-id');
+            var Company = document.getElementById("Company").value;;
+            var CaseNo = document.getElementById("CaseNo").value;
+            var Seq = obj.Id;
+            $.ajax({
+                url: "/ComplaintsSetup/ComplainList/BindList?Company=" + Company + "&CaseNo=" + CaseNo + "&Seq=" + Seq,
+                type: 'GET',
+                dataType: 'json',
+                contentType: "application/json; charset=utf-8",
+                success: function (response) 
+                {
+                    var returnedData = response;
+                    var Company = response[0].company;
+                    var CaseNo =returnedData[0].caseNo;
+                    var Status = returnedData[0].status;
+                    var Complaintfilledby = returnedData[0].complaintfilledby;
+                    $('#Companyss').val(Company);
+                    $('#CaseNosss').val(CaseNo);
+                    $('#Complaintfilledby').val(Complaintfilledby);
+                    $('#Status').val(Status);
+                    $("#MyPopup").modal("show");
+                }
+            });
+        });
+    });
+</script>
+<script>
+    $('#update').click(function ()
+    {
+        $('#img').show();
+        $.ajax({
+
+            type: "Post",
+            url: "@(Url.Action("UpadateComplin", "ComplainList"))",
+            data:
+            {
+                Complaintfilledby: document.getElementById("Complaintfilledby").value,
+                Status: document.getElementById("Status").value,
+                Company: document.getElementById("Company").value,
+                CaseNo: document.getElementById("CaseNo").value
+            },
+            cache: false,
+            async: true,
+            success: function (data)
+            {
+                if (data.message == "updatesuccess")
+                {
+                    swal({ title: "Complain Update!", text: "Complain Updated SuccessFully Now!", icon: "success", button: "Ok!", });
+                      setTimeout(function () {
+                                //in between i have a huge code that takes time to run
+                        $("#img").hide();
+                            }, 10);
+                    $("#MyPopup").modal("hide");
+                    window.location.reload();
+                }
+            }
+        });
+    });
+</script>

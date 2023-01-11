@@ -1,0 +1,101 @@
+﻿body
+{
+    background-image: -linear-gradient(bottom, rgb(217,236,242) 40%, rgb(217,236,242) 70%);
+    background-image: -o-linear-gradient(bottom, rgb(217,236,242) 40%, rgb(217,236,242) 70%);
+    background-image: -moz-linear-gradient(bottom, rgb(217,236,242) 40%, rgb(217,236,242) 70%);
+    background-image: -webkit-linear-gradient(bottom, rgb(217,236,242) 40%, rgb(217,236,242) 70%);
+    background-image: -ms-linear-gradient(bottom, rgb(217,236,242) 40%, rgb(217,236,242) 70%);
+    background-image: -webkit-gradient( 	linear, 	left bottom, 	left top, 	color-stop(0.4, rgb(217,236,242)), 	color-stop(0.7, rgb(217,236,242)) );
+    background-repeat: repeat-y;
+    background-attachment:scroll;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-image: url('../Images/ThemeBlue/headerBlue.jpg');
+    height: 30px;
+    /* min-width: 1020px;*/
+    background-size: 100% 30px;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+/*#footer
+{
+    background-image: url('../Images/ThemeBlue/Footer_StlyeBlue.jpg');
+    height: 62px;
+    min-width:1020px;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    background-repeat:no-repeat;
+}*/
+
+.css_btn_class
+{
+    font-size: 12px;
+    font-family: Verdana;
+    font-weight: normal;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    border: 0px solid #3d95be;
+    padding: 9px 18px;
+    text-decoration: none;
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(57%, #3ea7d4), color-stop(48%, #3d95be) );
+    background: -moz-linear-gradient( center top, #3ea7d4 57%, #3d95be 48% );
+    background: -ms-linear-gradient( top, #3ea7d4 57%, #3d95be 48% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3ea7d4', endColorstr='#3d95be');
+    background-color: #3ea7d4;
+    color: #ffffff;
+    display: inline-block;
+    text-shadow: 1px -45px 0px #ffffff;
+    -webkit-box-shadow: inset 1px 1px 0px 0px #ffffff;
+    -moz-box-shadow: inset 1px 1px 0px 0px #ffffff;
+    box-shadow: inset 1px 1px 0px 0px #ffffff;
+}
+.css_btn_class:hover
+{
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(57%, #3d95be), color-stop(48%, #3ea7d4) );
+    background: -moz-linear-gradient( center top, #3d95be 57%, #3ea7d4 48% );
+    background: -ms-linear-gradient( top, #3d95be 57%, #3ea7d4 48% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3d95be', endColorstr='#3ea7d4');
+   
+}
+.css_btn_class:active
+{
+    position: relative;
+    top: 1px;
+}
+
+#tableclass {
+    background-color: #D9ECF2;
+}
+#tableclass1 {
+    background-color: #D9ECF2;
+}
+
+#tableclass2 {
+    background-color: #D9ECF2;
+}
+
+#tableclass3 {
+    background-color: #D9ECF2;
+}
+#tableclass4 {
+    background-color: #D9ECF2;
+}
+
+#CardClass1 {
+    background-color: #D9ECF2;
+}
+
+#CardClass2 {
+    background-color: #D9ECF2;
+}
+
+#modalclass {
+    background-color: #D9ECF2;
+}

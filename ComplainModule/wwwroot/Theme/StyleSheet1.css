@@ -1,0 +1,21 @@
+﻿/* DEAFULTS -------------------------------------------- */
+
+body
+{
+    color: #444444;
+    font-size: 13px;
+    font-family: "Century Gothic" , Helvetica, sans-serif; /* FF3.6+ */ /* Chrome,Safari4+ */ /* Chrome10+,Safari5.1+ */ /* Opera 11.10+ */ /* IE10+ */ /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6eaef', endColorstr='#ffffff',GradientType=0 );
+    width: 954px;
+    height: 783px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: auto;
+    padding-right: auto;
+    position: fixed;
+    margin-left: 28px;
+}
+
+.header
+{
+}

@@ -1,0 +1,1265 @@
+[12/8/2022 8:41:54 AM] : ClientID is:SCDATAPS
+[12/8/2022 8:42:02 AM] : ClientID is:SCDATAPS
+[12/8/2022 8:42:20 AM] : Count Is:32
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:0
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 8:42:20 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:10:00 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:10:01 AM] : ClientID is:
+[12/8/2022 11:10:01 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:10:27 AM] : Count Is:32
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:10:27 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:14:16 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:14:17 AM] : List.Message is:ERROR [08S01] [IBM][iSeries Access ODBC Driver]Communication link failure. comm rc=10065 - CWBCO1003 - Sockets error, function  returned 10065, 10.23.144.10
+[12/8/2022 11:14:17 AM] : Client Id is:-SCDATAPS
+[12/8/2022 11:14:18 AM] : CmplntType is:ERROR [08S01] [IBM][iSeries Access ODBC Driver]Communication link failure. comm rc=10065 - CWBCO1003 - Sockets error, function  returned 10065, 10.23.144.10
+[12/8/2022 11:29:56 AM] : ClientID is:
+DATAPS
+[12/8/2022 11:29:56 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:30:02 AM] : Count Is:32
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:30:02 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:31:21 AM] : ClientID is:
+DATAPS
+[12/8/2022 11:31:22 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:31:28 AM] : Count Is:32
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:31:28 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:33:39 AM] : ClientID is:
+[12/8/2022 11:33:39 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:33:40 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:33:47 AM] : Count Is:32
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:33:47 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:37:44 AM] : ClientID is:
+[12/8/2022 11:37:44 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:37:45 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:37:51 AM] : Count Is:32
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:37:51 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:40:47 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:40:48 AM] : ClientID is:
+[12/8/2022 11:40:49 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:40:55 AM] : Count Is:32
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:40:55 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:43:54 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:43:54 AM] : ClientID is:
+[12/8/2022 11:43:55 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:44:00 AM] : Count Is:32
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:44:00 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:45:21 AM] : ClientID is:
+DATAPS
+[12/8/2022 11:45:21 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:45:27 AM] : Count Is:32
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:45:27 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:47:02 AM] : ClientID is:
+[12/8/2022 11:47:02 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:47:02 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:47:10 AM] : Count Is:32
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:47:10 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:47:57 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:47:58 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:48:03 AM] : Count Is:32
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:48:03 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:51:40 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:51:40 AM] : ClientID is:SCDATAPS
+[12/8/2022 11:51:45 AM] : Count Is:32
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221115
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221116
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221117
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221121
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221122
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:0
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221123
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221201
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 11:51:45 AM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:02:46 PM] : ClientID is:
+DATAPS
+[12/8/2022 12:02:46 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:02:52 PM] : Count Is:32
+[12/8/2022 12:02:52 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:0
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:02:53 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:04:05 PM] : ClientID is:
+[12/8/2022 12:04:05 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:04:05 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:04:11 PM] : Count Is:32
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:0
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:04:11 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:05:36 PM] : ClientID is:
+DATAPS
+[12/8/2022 12:05:36 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:05:42 PM] : Count Is:32
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:0
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:05:42 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:08:15 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:08:15 PM] : ClientID is:
+[12/8/2022 12:08:16 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:08:22 PM] : Count Is:32
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:0
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:08:22 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:11:29 PM] : ClientID is:
+DATAPS
+[12/8/2022 12:11:30 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:11:35 PM] : Count Is:32
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:0
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:11:35 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:11:55 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:11:55 PM] : Count Is:32
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:0
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:11:55 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:12:49 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:12:50 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:12:56 PM] : Count Is:32
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:0
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:12:56 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:18:56 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:18:56 PM] : ClientID is:
+[12/8/2022 12:18:57 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:19:02 PM] : Count Is:32
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:0
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:19:02 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:34:34 PM] : ClientID is:
+DATAPS
+[12/8/2022 12:34:34 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:34:40 PM] : Count Is:32
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:0
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:34:40 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 12:54:08 PM] : ClientID is:SCDATAPS
+[12/8/2022 12:54:09 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:22:58 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:22:58 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:23:09 PM] : Count Is:32
+[12/8/2022 1:23:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:0
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:23:10 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:45:51 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:45:52 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:45:57 PM] : Count Is:33
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:0
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:45:57 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 1:46:41 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:46:42 PM] : Count Is:33
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:0
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:46:42 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 1:55:24 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:55:24 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:55:30 PM] : Count Is:33
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:0
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:55:30 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 1:57:50 PM] : ClientID is:
+DATAPS
+[12/8/2022 1:57:50 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:57:55 PM] : Count Is:33
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:0
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:57:55 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 1:59:13 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:59:13 PM] : ClientID is:SCDATAPS
+[12/8/2022 1:59:18 PM] : Count Is:33
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:0
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 1:59:18 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 2:09:17 PM] : ClientID is:SCDATAPS
+[12/8/2022 2:09:17 PM] : ClientID is:
+[12/8/2022 2:09:18 PM] : ClientID is:SCDATAPS
+[12/8/2022 2:09:23 PM] : Count Is:33
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:0
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:09:23 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 2:10:43 PM] : ClientID is:
+DATAPS
+[12/8/2022 2:10:43 PM] : ClientID is:SCDATAPS
+[12/8/2022 2:10:48 PM] : Count Is:33
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:0
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:10:48 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 2:26:44 PM] : ClientID is:
+DATAPS
+[12/8/2022 2:26:45 PM] : ClientID is:SCDATAPS
+[12/8/2022 2:26:51 PM] : Count Is:33
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:0
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:26:51 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 2:33:04 PM] : ClientID is:
+DATAPS
+[12/8/2022 2:33:04 PM] : ClientID is:SCDATAPS
+[12/8/2022 2:33:09 PM] : Count Is:33
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:0
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:33:09 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 2:35:48 PM] : ClientID is:
+DATAPS
+[12/8/2022 2:35:48 PM] : ClientID is:SCDATAPS
+[12/8/2022 2:35:54 PM] : Count Is:33
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:0
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:35:54 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 2:47:10 PM] : ClientID is:SCDATAPS
+[12/8/2022 2:47:10 PM] : ClientID is:SCDATAPS
+[12/8/2022 2:47:19 PM] : Count Is:33
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:0
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 2:47:19 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 3:14:01 PM] : ClientID is:
+DATAPS
+[12/8/2022 3:14:01 PM] : ClientID is:SCDATAPS
+[12/8/2022 3:14:07 PM] : Count Is:33
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:0
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 3:14:07 PM] : The Complain InqStartdate is:20221208
+[12/8/2022 3:15:50 PM] : ClientID is:SCDATAPS
+[12/8/2022 3:15:51 PM] : ClientID is:SCDATAPS
+[12/8/2022 3:15:57 PM] : Count Is:33
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221115
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221116
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221117
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221121
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221122
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:0
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221123
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221201
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221205
+[12/8/2022 3:15:57 PM] : The Complain InqStartdate is:20221208

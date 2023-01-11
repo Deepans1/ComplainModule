@@ -1,0 +1,91 @@
+﻿body
+{
+    background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, rgb(242, 235, 245)),
+	color-stop(1, rgb(242, 235, 245))
+);
+    background-image: -o-linear-gradient(bottom, rgb(242, 235, 245) 0%, rgb(242, 235, 245) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(242, 235, 245) 0%, rgb(242, 235, 245) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(242, 235, 245) 0%, rgb(242, 235, 245) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(242, 235, 245) 0%, rgb(242, 235, 245) 100%);
+    background-image: linear-gradient(to bottom, rgb(242, 235, 245) 0%, rgb(242, 235, 245) 100%);
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-image: url('../Images/ThemePurple/HeaderPurple.jpg');
+    height: 30px;
+    /*min-width:1020px;*/
+    background-size: 100% 30px;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+#tableclass {
+    background-color: #F2EBF5;
+}
+
+#tableclass1 {
+    background-color: #F2EBF5;
+}
+
+#tableclass2 {
+    background-color: #F2EBF5;
+}
+
+#tableclass3 {
+    background-color: #F2EBF5;
+}
+#tableclass4 {
+    background-color: #F2EBF5;
+}
+
+
+#CardClass1 {
+    background-color: #F2EBF5;
+}
+
+#CardClass2 {
+    background-color: #F2EBF5;
+}
+
+#modalclass {
+    background-color: #F2EBF5;
+}
+
+
+/*#footer
+{*/
+    /*     background-image:url('../Images/ThemePurple/Footer_StlyePurple.jpg');     background-repeat:no-repeat;     background-attachment:scroll;*/
+/*}*/
+
+.css_btn_class {
+    background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #D1D6D6), color-stop(0.45, #D1D6D6) );
+    background-image: -o-linear-gradient(bottom, #D1D6D6 0%, #D1D6D6 45%);
+    background-image: -moz-linear-gradient(bottom, #D1D6D6 0%, #D1D6D6 45%);
+    background-image: -webkit-linear-gradient(bottom, #D1D6D6 0%, #D1D6D6 45%);
+    background-image: -ms-linear-gradient(bottom,#D1D6D6 0%, #D1D6D6 45%);
+    background-image: linear-gradient(to bottom, #D1D6D6 0%, #D1D6D6 45%);
+
+   
+}
+.css_btn_class:hover
+{
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(57%, #877182), color-stop(48%, #877182) );
+    background: -moz-linear-gradient( center top, #877182 57%, #877182 48% );
+    background: -ms-linear-gradient( top, #877182 57%, #877182 48% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#877182', endColorstr='#877182');
+   
+}
+.css_btn_class:active
+{
+    position: relative;
+    top: 1px;
+}
+

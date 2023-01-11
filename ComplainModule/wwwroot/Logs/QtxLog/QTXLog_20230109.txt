@@ -1,0 +1,165 @@
+[1/9/2023 1:12:33 PM] : Complain Form Load
+[1/9/2023 1:12:33 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:12:34 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:12:35 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:22:40 PM] : Complain Form Load
+[1/9/2023 1:22:40 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:22:41 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:22:42 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:24:12 PM] : complainForm.CFPB  is:-False
+[1/9/2023 1:24:12 PM] : complainForm.Close  is:-True
+[1/9/2023 1:24:12 PM] : Complainttype is:-02
+[1/9/2023 1:24:12 PM] : SeverityType is:-01
+[1/9/2023 1:24:12 PM] : Status is:-LL
+[1/9/2023 1:24:12 PM] : UserID1 is:-KANDEE
+[1/9/2023 1:28:22 PM] : Complain Form Load
+[1/9/2023 1:28:22 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:28:23 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:28:24 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:29:04 PM] : complainForm.CFPB  is:-False
+[1/9/2023 1:29:04 PM] : complainForm.Close  is:-True
+[1/9/2023 1:29:04 PM] : Complainttype is:-02
+[1/9/2023 1:29:04 PM] : SeverityType is:-01
+[1/9/2023 1:29:04 PM] : Status is:-LL
+[1/9/2023 1:29:04 PM] : UserID1 is:-KANDEE
+[1/9/2023 1:36:09 PM] : Complain Form Load
+[1/9/2023 1:36:09 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:36:10 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:36:11 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:36:51 PM] : complainForm.CFPB  is:-False
+[1/9/2023 1:36:51 PM] : complainForm.Close  is:-True
+[1/9/2023 1:36:51 PM] : Complainttype is:-02
+[1/9/2023 1:36:51 PM] : SeverityType is:-01
+[1/9/2023 1:36:51 PM] : Status is:-LL
+[1/9/2023 1:36:51 PM] : UserID1 is:-KANDEE
+[1/9/2023 1:44:44 PM] : Complain Form Load
+[1/9/2023 1:44:44 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:44:45 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:44:46 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:45:20 PM] : complainForm.CFPB  is:-False
+[1/9/2023 1:45:20 PM] : complainForm.Close  is:-True
+[1/9/2023 1:45:20 PM] : Complainttype is:-02
+[1/9/2023 1:45:20 PM] : SeverityType is:-01
+[1/9/2023 1:45:20 PM] : Status is:-LL
+[1/9/2023 1:45:20 PM] : UserID1 is:-KANDEE
+[1/9/2023 1:46:41 PM] : Complain Form Load
+[1/9/2023 1:46:41 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:46:42 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:46:43 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:47:17 PM] : Exception is:-String reference not set to an instance of a String. (Parameter 's')
+[1/9/2023 1:47:52 PM] : Complain Form Load
+[1/9/2023 1:47:52 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:47:53 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:47:54 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:48:34 PM] : Exception is:-String reference not set to an instance of a String. (Parameter 's')
+[1/9/2023 1:50:29 PM] : Complain Form Load
+[1/9/2023 1:50:29 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:50:30 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:50:31 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:51:22 PM] : Exception is:-String reference not set to an instance of a String. (Parameter 's')
+[1/9/2023 1:51:58 PM] : Complain Form Load
+[1/9/2023 1:51:58 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:51:59 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:52:00 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 1:52:37 PM] : complainForm.CFPB  is:-False
+[1/9/2023 1:52:37 PM] : complainForm.Close  is:-True
+[1/9/2023 1:52:37 PM] : Complainttype is:-02
+[1/9/2023 1:52:37 PM] : SeverityType is:-01
+[1/9/2023 1:52:37 PM] : Status is:-LL
+[1/9/2023 1:52:37 PM] : UserID1 is:-KANDEE
+[1/9/2023 1:53:04 PM] : Complain Result is:-Complain Successfully Saved
+[1/9/2023 1:53:23 PM] : complainForm.CFPB  is:-False
+[1/9/2023 1:53:23 PM] : complainForm.Close  is:-True
+[1/9/2023 1:53:23 PM] : Complainttype is:-02
+[1/9/2023 1:53:23 PM] : SeverityType is:-01
+[1/9/2023 1:53:23 PM] : Status is:-02
+[1/9/2023 1:53:23 PM] : UserID1 is:-KANDEE
+[1/9/2023 1:53:25 PM] : user Description is:-already exist
+[1/9/2023 1:53:40 PM] : complainForm.CFPB  is:-False
+[1/9/2023 1:53:40 PM] : complainForm.Close  is:-True
+[1/9/2023 1:53:40 PM] : Complainttype is:-02
+[1/9/2023 1:53:40 PM] : SeverityType is:-01
+[1/9/2023 1:53:40 PM] : Status is:-02
+[1/9/2023 1:53:40 PM] : UserID1 is:-KANDEE
+[1/9/2023 3:09:01 PM] : Complain Form Load
+[1/9/2023 3:09:01 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:09:02 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:09:03 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:10:08 PM] : complainForm.CFPB  is:-False
+[1/9/2023 3:10:08 PM] : complainForm.Close  is:-True
+[1/9/2023 3:10:08 PM] : Complainttype is:-02
+[1/9/2023 3:10:08 PM] : SeverityType is:-01
+[1/9/2023 3:10:08 PM] : Status is:-01
+[1/9/2023 3:10:08 PM] : UserID1 is:-SHAMILA
+[1/9/2023 3:10:24 PM] : Complain Result is:-Complain Successfully Saved
+[1/9/2023 3:17:46 PM] : Complain Form Load
+[1/9/2023 3:17:46 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:17:47 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:17:48 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:19:21 PM] : Update Is:Updated Has been Done
+[1/9/2023 3:19:29 PM] : Complain Form Load
+[1/9/2023 3:19:29 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:19:30 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:19:31 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:21:02 PM] : Complain Form Load
+[1/9/2023 3:21:06 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:21:07 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:21:08 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:23:03 PM] : Complain Form Load
+[1/9/2023 3:23:03 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:23:04 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:23:05 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:24:33 PM] : Complain Form Load
+[1/9/2023 3:24:36 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:24:38 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:24:38 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:25:39 PM] : Complain Form Load
+[1/9/2023 3:25:39 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:25:40 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:25:41 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:26:38 PM] : Complain Form Load
+[1/9/2023 3:26:38 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:26:39 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:26:40 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:27:49 PM] : Complain Form Load
+[1/9/2023 3:27:49 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:27:50 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:27:51 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:28:34 PM] : Complain Form Load
+[1/9/2023 3:28:34 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:28:36 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:28:37 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:30:11 PM] : Complain Form Load
+[1/9/2023 3:30:11 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:30:12 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:30:13 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:31:56 PM] : Complain Form Load
+[1/9/2023 3:31:56 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:31:57 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:31:58 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:33:31 PM] : Complain Form Load
+[1/9/2023 3:33:31 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:33:32 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:33:33 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:37:56 PM] : Complain Form Load
+[1/9/2023 3:38:00 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:38:01 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:38:02 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:50:11 PM] : Complain Form Load
+[1/9/2023 3:50:11 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:50:12 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:50:13 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:52:32 PM] : Complain Form Load
+[1/9/2023 3:52:32 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:52:33 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:52:34 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[1/9/2023 3:53:16 PM] : complainForm.CFPB  is:-False
+[1/9/2023 3:53:16 PM] : complainForm.Close  is:-True
+[1/9/2023 3:53:16 PM] : Complainttype is:-02
+[1/9/2023 3:53:16 PM] : SeverityType is:-01
+[1/9/2023 3:53:16 PM] : Status is:-CM
+[1/9/2023 3:53:16 PM] : UserID1 is:-KANDEE
+[1/9/2023 3:53:31 PM] : Complain Result is:-Complain Successfully Saved
+[1/9/2023 5:34:40 PM] : Update Is:Updated Has been Done
+[1/9/2023 5:34:51 PM] : Update Is:Updated Has been Done
+[1/9/2023 5:40:12 PM] : Update Is:Updated Has been Done

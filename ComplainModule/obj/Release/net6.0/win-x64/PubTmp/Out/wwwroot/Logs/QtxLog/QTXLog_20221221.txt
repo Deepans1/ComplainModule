@@ -1,0 +1,91 @@
+[12/21/2022 8:28:47 AM] : Total Record Count Is:80
+[12/21/2022 8:29:43 AM] : Total Record Count Is:80
+[12/21/2022 8:31:39 AM] : Total Record Count Is:80
+[12/21/2022 8:34:22 AM] : Total Record Count Is:80
+[12/21/2022 8:36:44 AM] : Total Record Count Is:80
+[12/21/2022 8:41:45 AM] : Total Record Count Is:80
+[12/21/2022 8:46:47 AM] : Total Record Count Is:80
+[12/21/2022 8:50:03 AM] : Total Record Count Is:80
+[12/21/2022 8:52:06 AM] : Total Record Count Is:80
+[12/21/2022 8:55:01 AM] : Total Record Count Is:80
+[12/21/2022 8:57:09 AM] : Total Record Count Is:80
+[12/21/2022 8:57:47 AM] : Update Is:Updated Has been Done
+[12/21/2022 8:57:49 AM] : Total Record Count Is:80
+[12/21/2022 12:54:11 PM] : Total Record Count Is:80
+[12/21/2022 12:59:35 PM] : Total Record Count Is:80
+[12/21/2022 12:59:40 PM] : Total Record Count Is:80
+[12/21/2022 12:59:41 PM] : Complain Form Load
+[12/21/2022 12:59:42 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 12:59:44 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 12:59:45 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:02:04 PM] : Total Record Count Is:80
+[12/21/2022 1:02:12 PM] : Total Record Count Is:80
+[12/21/2022 1:02:12 PM] : Complain Form Load
+[12/21/2022 1:02:12 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:02:14 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:02:15 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:07 PM] : Total Record Count Is:80
+[12/21/2022 1:07:12 PM] : Total Record Count Is:80
+[12/21/2022 1:07:12 PM] : Complain Form Load
+[12/21/2022 1:07:12 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:14 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:15 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:23 PM] : Complain Form Load
+[12/21/2022 1:07:23 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:24 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:26 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:26 PM] : Complain Form Load
+[12/21/2022 1:07:29 PM] : Complain Form Load
+[12/21/2022 1:07:29 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:30 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:31 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:33 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:36 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:07:37 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:08:01 PM] : Total Record Count Is:80
+[12/21/2022 1:08:04 PM] : Total Record Count Is:80
+[12/21/2022 1:08:04 PM] : Complain Form Load
+[12/21/2022 1:08:04 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:08:06 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:08:07 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:08:12 PM] : Complain Form Load
+[12/21/2022 1:08:12 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:08:14 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:08:15 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:13:34 PM] : Total Record Count Is:80
+[12/21/2022 1:13:43 PM] : Total Record Count Is:80
+[12/21/2022 1:13:44 PM] : Complain Form Load
+[12/21/2022 1:13:44 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:13:46 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:13:47 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/21/2022 1:15:24 PM] : complainForm.CFPB  is:-False
+[12/21/2022 1:15:24 PM] : complainForm.Close  is:-True
+[12/21/2022 1:15:24 PM] : Complainttype is:-02
+[12/21/2022 1:15:24 PM] : SeverityType is:-01
+[12/21/2022 1:15:24 PM] : Status is:-01
+[12/21/2022 1:15:24 PM] : UserID1 is:-KANDEE
+[12/21/2022 1:15:27 PM] : selected sequence:elected sequence!
+[12/21/2022 1:15:28 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/21/2022 1:15:36 PM] : res:False
+[12/21/2022 1:15:36 PM] : About to insert complaint:About to insert complaint!
+[12/21/2022 1:15:37 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/21/2022 1:15:40 PM] : IsStatus is:True
+[12/21/2022 1:15:40 PM] : Complain Result is:-Complain Successfully Saved
+[12/21/2022 1:49:12 PM] : Total Record Count Is:81
+[12/21/2022 1:49:40 PM] : Total Record Count Is:81
+[12/21/2022 1:49:59 PM] : Total Record Count Is:81
+[12/21/2022 2:02:19 PM] : Total Record Count Is:81
+[12/21/2022 2:02:47 PM] : Update Is:Updated Has been Done
+[12/21/2022 2:02:49 PM] : Total Record Count Is:81
+[12/21/2022 3:09:25 PM] : Total Record Count Is:81
+[12/21/2022 3:17:41 PM] : Total Record Count Is:81
+[12/21/2022 3:23:51 PM] : Total Record Count Is:81
+[12/21/2022 3:30:51 PM] : Total Record Count Is:81
+[12/21/2022 3:46:48 PM] : Total Record Count Is:81
+[12/21/2022 3:50:53 PM] : Total Record Count Is:81
+[12/21/2022 3:55:19 PM] : Total Record Count Is:81
+[12/21/2022 3:55:56 PM] : Update Is:Updated Has been Done
+[12/21/2022 3:55:58 PM] : Total Record Count Is:81
+[12/21/2022 5:22:21 PM] : Total Record Count Is:81
+[12/21/2022 5:23:30 PM] : Update Is:Updated Has been Done
+[12/21/2022 5:23:31 PM] : Total Record Count Is:81

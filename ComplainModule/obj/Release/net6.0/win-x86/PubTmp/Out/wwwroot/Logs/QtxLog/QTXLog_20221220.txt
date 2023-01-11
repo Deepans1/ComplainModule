@@ -1,0 +1,516 @@
+[12/20/2022 8:37:23 AM] : Total Record Count Is:58
+[12/20/2022 8:37:42 AM] : Update Is:Updated Has been Done
+[12/20/2022 8:37:44 AM] : Total Record Count Is:58
+[12/20/2022 8:41:26 AM] : Total Record Count Is:58
+[12/20/2022 8:41:44 AM] : Total Record Count Is:58
+[12/20/2022 8:41:44 AM] : Complain Form Load
+[12/20/2022 8:41:45 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 8:41:46 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 8:41:47 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 8:48:24 AM] : Total Record Count Is:58
+[12/20/2022 8:48:28 AM] : Total Record Count Is:58
+[12/20/2022 8:48:28 AM] : Complain Form Load
+[12/20/2022 8:48:28 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 8:48:29 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 8:48:30 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 8:49:23 AM] : Complain Form Load
+[12/20/2022 8:49:25 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 8:49:34 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 8:49:34 AM] : complainForm.CFPB  is:-False
+[12/20/2022 8:49:34 AM] : complainForm.Close  is:-True
+[12/20/2022 8:49:34 AM] : Complainttype is:-02
+[12/20/2022 8:49:34 AM] : SeverityType is:-01
+[12/20/2022 8:49:34 AM] : Status is:-01
+[12/20/2022 8:49:34 AM] : UserID1 is:-KANDEE
+[12/20/2022 8:49:35 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 8:49:36 AM] : selected sequence:elected sequence!
+[12/20/2022 8:49:39 AM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 8:49:44 AM] : res:False
+[12/20/2022 8:49:44 AM] : About to insert complaint:About to insert complaint!
+[12/20/2022 8:49:45 AM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 8:49:46 AM] : IsStatus is:True
+[12/20/2022 8:49:49 AM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 10:12:45 AM] : Total Record Count Is:59
+[12/20/2022 10:12:49 AM] : Total Record Count Is:59
+[12/20/2022 10:12:49 AM] : Complain Form Load
+[12/20/2022 10:12:49 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:12:51 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:12:52 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:13:38 AM] : Complain Form Load
+[12/20/2022 10:13:39 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:13:46 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:13:47 AM] : complainForm.CFPB  is:-False
+[12/20/2022 10:13:47 AM] : complainForm.Close  is:-True
+[12/20/2022 10:13:47 AM] : Complainttype is:-02
+[12/20/2022 10:13:47 AM] : SeverityType is:-01
+[12/20/2022 10:13:47 AM] : Status is:-01
+[12/20/2022 10:13:47 AM] : UserID1 is:-KANDEE
+[12/20/2022 10:13:48 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:13:49 AM] : selected sequence:elected sequence!
+[12/20/2022 10:13:53 AM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 10:13:55 AM] : res:False
+[12/20/2022 10:13:55 AM] : About to insert complaint:About to insert complaint!
+[12/20/2022 10:13:56 AM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 10:13:57 AM] : IsStatus is:True
+[12/20/2022 10:14:00 AM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 10:16:43 AM] : Total Record Count Is:60
+[12/20/2022 10:16:48 AM] : Total Record Count Is:60
+[12/20/2022 10:16:49 AM] : Complain Form Load
+[12/20/2022 10:16:49 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:16:50 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:16:51 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:17:40 AM] : Complain Form Load
+[12/20/2022 10:17:41 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:17:48 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:17:49 AM] : complainForm.CFPB  is:-False
+[12/20/2022 10:17:49 AM] : complainForm.Close  is:-True
+[12/20/2022 10:17:49 AM] : Complainttype is:-02
+[12/20/2022 10:17:49 AM] : SeverityType is:-01
+[12/20/2022 10:17:49 AM] : Status is:-01
+[12/20/2022 10:17:49 AM] : UserID1 is:-KANDEE
+[12/20/2022 10:17:50 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:17:50 AM] : selected sequence:elected sequence!
+[12/20/2022 10:17:51 AM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 10:17:53 AM] : res:False
+[12/20/2022 10:17:53 AM] : About to insert complaint:About to insert complaint!
+[12/20/2022 10:17:53 AM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 10:17:55 AM] : IsStatus is:True
+[12/20/2022 10:17:55 AM] : selected sequence:elected sequence!
+[12/20/2022 10:17:56 AM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 10:17:57 AM] : res:False
+[12/20/2022 10:17:57 AM] : About to insert complaint:About to insert complaint!
+[12/20/2022 10:17:57 AM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 10:17:59 AM] : IsStatus is:True
+[12/20/2022 10:18:01 AM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 10:49:06 AM] : Total Record Count Is:62
+[12/20/2022 10:49:13 AM] : Total Record Count Is:62
+[12/20/2022 10:49:13 AM] : Complain Form Load
+[12/20/2022 10:49:13 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:49:14 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:49:15 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:50:03 AM] : Complain Form Load
+[12/20/2022 10:50:04 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:50:15 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:50:15 AM] : complainForm.CFPB  is:-False
+[12/20/2022 10:50:15 AM] : complainForm.Close  is:-True
+[12/20/2022 10:50:15 AM] : Complainttype is:-02
+[12/20/2022 10:50:15 AM] : SeverityType is:-01
+[12/20/2022 10:50:15 AM] : Status is:-01
+[12/20/2022 10:50:15 AM] : UserID1 is:-KANDEE
+[12/20/2022 10:50:17 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:50:17 AM] : selected sequence:elected sequence!
+[12/20/2022 10:50:18 AM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 10:50:20 AM] : res:False
+[12/20/2022 10:50:20 AM] : About to insert complaint:About to insert complaint!
+[12/20/2022 10:50:21 AM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 10:50:22 AM] : IsStatus is:True
+[12/20/2022 10:50:25 AM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 10:53:34 AM] : Total Record Count Is:63
+[12/20/2022 10:53:37 AM] : Total Record Count Is:63
+[12/20/2022 10:53:37 AM] : Complain Form Load
+[12/20/2022 10:53:37 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:53:38 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:53:39 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:54:38 AM] : Complain Form Load
+[12/20/2022 10:54:40 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:54:45 AM] : complainForm.CFPB  is:-False
+[12/20/2022 10:54:45 AM] : complainForm.Close  is:-True
+[12/20/2022 10:54:45 AM] : Complainttype is:-02
+[12/20/2022 10:54:45 AM] : SeverityType is:-01
+[12/20/2022 10:54:45 AM] : Status is:-01
+[12/20/2022 10:54:45 AM] : UserID1 is:-KANDEE
+[12/20/2022 10:54:46 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:54:46 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 10:54:47 AM] : selected sequence:elected sequence!
+[12/20/2022 10:54:48 AM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 10:54:51 AM] : res:False
+[12/20/2022 10:54:51 AM] : About to insert complaint:About to insert complaint!
+[12/20/2022 10:54:52 AM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 10:54:53 AM] : IsStatus is:True
+[12/20/2022 10:54:56 AM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 11:38:03 AM] : Total Record Count Is:64
+[12/20/2022 11:38:24 AM] : Update Is:Updated Has been Done
+[12/20/2022 11:38:25 AM] : Total Record Count Is:64
+[12/20/2022 11:38:29 AM] : Total Record Count Is:64
+[12/20/2022 11:38:29 AM] : Complain Form Load
+[12/20/2022 11:38:29 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:38:30 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:38:31 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:40:03 AM] : Complain Form Load
+[12/20/2022 11:40:08 AM] : complainForm.CFPB  is:-False
+[12/20/2022 11:40:08 AM] : complainForm.Close  is:-True
+[12/20/2022 11:40:08 AM] : Complainttype is:-02
+[12/20/2022 11:40:08 AM] : SeverityType is:-01
+[12/20/2022 11:40:08 AM] : Status is:-01
+[12/20/2022 11:40:08 AM] : UserID1 is:-KANDEE
+[12/20/2022 11:40:08 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:40:10 AM] : selected sequence:elected sequence!
+[12/20/2022 11:40:11 AM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 11:40:13 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:40:14 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:40:15 AM] : res:False
+[12/20/2022 11:40:15 AM] : About to insert complaint:About to insert complaint!
+[12/20/2022 11:40:16 AM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 11:40:18 AM] : IsStatus is:True
+[12/20/2022 11:40:22 AM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 11:51:10 AM] : Total Record Count Is:65
+[12/20/2022 11:51:14 AM] : Total Record Count Is:65
+[12/20/2022 11:51:15 AM] : Complain Form Load
+[12/20/2022 11:51:15 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:51:16 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:51:17 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:51:51 AM] : Complain Form Load
+[12/20/2022 11:51:53 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:52:01 AM] : complainForm.CFPB  is:-False
+[12/20/2022 11:52:01 AM] : complainForm.Close  is:-True
+[12/20/2022 11:52:01 AM] : Complainttype is:-02
+[12/20/2022 11:52:01 AM] : SeverityType is:-01
+[12/20/2022 11:52:01 AM] : Status is:-01
+[12/20/2022 11:52:01 AM] : UserID1 is:-KANDEE
+[12/20/2022 11:52:01 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:52:03 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:52:03 AM] : user Description is:-already exist
+[12/20/2022 11:52:55 AM] : Complain Form Load
+[12/20/2022 11:52:56 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:52:57 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:52:58 AM] : complainForm.CFPB  is:-False
+[12/20/2022 11:52:58 AM] : complainForm.Close  is:-True
+[12/20/2022 11:52:58 AM] : Complainttype is:-02
+[12/20/2022 11:52:58 AM] : SeverityType is:-01
+[12/20/2022 11:52:58 AM] : Status is:-01
+[12/20/2022 11:52:58 AM] : UserID1 is:-KANDEE
+[12/20/2022 11:52:58 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:52:59 AM] : selected sequence:elected sequence!
+[12/20/2022 11:53:00 AM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 11:53:01 AM] : res:False
+[12/20/2022 11:53:01 AM] : About to insert complaint:About to insert complaint!
+[12/20/2022 11:53:02 AM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 11:53:04 AM] : IsStatus is:True
+[12/20/2022 11:57:43 AM] : Total Record Count Is:66
+[12/20/2022 11:57:48 AM] : Total Record Count Is:66
+[12/20/2022 11:57:48 AM] : Complain Form Load
+[12/20/2022 11:57:48 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:57:49 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:57:50 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:58:26 AM] : Complain Form Load
+[12/20/2022 11:58:27 AM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:58:33 AM] : complainForm.CFPB  is:-False
+[12/20/2022 11:58:33 AM] : complainForm.Close  is:-True
+[12/20/2022 11:58:33 AM] : Complainttype is:-02
+[12/20/2022 11:58:33 AM] : SeverityType is:-01
+[12/20/2022 11:58:33 AM] : Status is:-01
+[12/20/2022 11:58:33 AM] : UserID1 is:-KANDEE
+[12/20/2022 11:58:33 AM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:58:34 AM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 11:58:34 AM] : selected sequence:elected sequence!
+[12/20/2022 11:58:35 AM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 11:58:37 AM] : res:False
+[12/20/2022 11:58:37 AM] : About to insert complaint:About to insert complaint!
+[12/20/2022 11:58:38 AM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 11:58:39 AM] : IsStatus is:True
+[12/20/2022 11:58:42 AM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 12:16:51 PM] : Total Record Count Is:67
+[12/20/2022 12:21:11 PM] : Total Record Count Is:67
+[12/20/2022 12:23:41 PM] : Total Record Count Is:67
+[12/20/2022 12:24:38 PM] : Total Record Count Is:67
+[12/20/2022 12:27:58 PM] : Total Record Count Is:67
+[12/20/2022 12:31:33 PM] : Total Record Count Is:67
+[12/20/2022 12:38:07 PM] : Total Record Count Is:67
+[12/20/2022 12:38:23 PM] : Total Record Count Is:67
+[12/20/2022 12:38:23 PM] : Complain Form Load
+[12/20/2022 12:38:25 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:38:26 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:38:27 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:39:29 PM] : Complain Form Load
+[12/20/2022 12:39:32 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:39:37 PM] : complainForm.CFPB  is:-False
+[12/20/2022 12:39:37 PM] : complainForm.Close  is:-True
+[12/20/2022 12:39:37 PM] : Complainttype is:-02
+[12/20/2022 12:39:37 PM] : SeverityType is:-01
+[12/20/2022 12:39:37 PM] : Status is:-01
+[12/20/2022 12:39:37 PM] : UserID1 is:-KANDEE
+[12/20/2022 12:39:37 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:39:38 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:39:38 PM] : selected sequence:elected sequence!
+[12/20/2022 12:39:39 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 12:39:41 PM] : res:False
+[12/20/2022 12:39:41 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 12:39:42 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 12:39:44 PM] : IsStatus is:True
+[12/20/2022 12:39:45 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 12:45:34 PM] : Total Record Count Is:68
+[12/20/2022 12:45:38 PM] : Total Record Count Is:68
+[12/20/2022 12:45:38 PM] : Complain Form Load
+[12/20/2022 12:45:38 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:45:39 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:45:40 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:46:28 PM] : Complain Form Load
+[12/20/2022 12:46:29 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:46:34 PM] : complainForm.CFPB  is:-False
+[12/20/2022 12:46:34 PM] : complainForm.Close  is:-True
+[12/20/2022 12:46:34 PM] : Complainttype is:-02
+[12/20/2022 12:46:34 PM] : SeverityType is:-01
+[12/20/2022 12:46:34 PM] : Status is:-01
+[12/20/2022 12:46:34 PM] : UserID1 is:-KANDEE
+[12/20/2022 12:46:34 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:46:35 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:46:36 PM] : selected sequence:elected sequence!
+[12/20/2022 12:46:36 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 12:46:38 PM] : res:False
+[12/20/2022 12:46:38 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 12:46:39 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 12:46:40 PM] : IsStatus is:True
+[12/20/2022 12:46:42 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 12:58:38 PM] : Total Record Count Is:69
+[12/20/2022 12:58:42 PM] : Total Record Count Is:69
+[12/20/2022 12:58:42 PM] : Complain Form Load
+[12/20/2022 12:58:42 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:58:44 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:58:45 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:59:25 PM] : Complain Form Load
+[12/20/2022 12:59:27 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:59:31 PM] : complainForm.CFPB  is:-False
+[12/20/2022 12:59:31 PM] : complainForm.Close  is:-True
+[12/20/2022 12:59:31 PM] : Complainttype is:-02
+[12/20/2022 12:59:31 PM] : SeverityType is:-01
+[12/20/2022 12:59:31 PM] : Status is:-01
+[12/20/2022 12:59:31 PM] : UserID1 is:-KANDEE
+[12/20/2022 12:59:32 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:59:33 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 12:59:33 PM] : selected sequence:elected sequence!
+[12/20/2022 12:59:34 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 12:59:36 PM] : res:False
+[12/20/2022 12:59:36 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 12:59:37 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 12:59:38 PM] : IsStatus is:True
+[12/20/2022 12:59:40 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 1:01:33 PM] : Total Record Count Is:70
+[12/20/2022 1:01:36 PM] : Total Record Count Is:70
+[12/20/2022 1:01:36 PM] : Complain Form Load
+[12/20/2022 1:01:36 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:01:38 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:01:38 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:02:11 PM] : Complain Form Load
+[12/20/2022 1:02:12 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:02:17 PM] : complainForm.CFPB  is:-False
+[12/20/2022 1:02:17 PM] : complainForm.Close  is:-True
+[12/20/2022 1:02:17 PM] : Complainttype is:-02
+[12/20/2022 1:02:17 PM] : SeverityType is:-01
+[12/20/2022 1:02:17 PM] : Status is:-01
+[12/20/2022 1:02:17 PM] : UserID1 is:-KANDEE
+[12/20/2022 1:02:17 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:02:18 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:02:19 PM] : selected sequence:elected sequence!
+[12/20/2022 1:02:20 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 1:02:22 PM] : res:False
+[12/20/2022 1:02:22 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 1:02:22 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 1:02:24 PM] : IsStatus is:True
+[12/20/2022 1:02:26 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 1:05:27 PM] : Total Record Count Is:71
+[12/20/2022 1:05:30 PM] : Total Record Count Is:71
+[12/20/2022 1:05:30 PM] : Complain Form Load
+[12/20/2022 1:05:30 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:05:31 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:05:32 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:07:29 PM] : complainForm.CFPB  is:-False
+[12/20/2022 1:07:29 PM] : complainForm.Close  is:-True
+[12/20/2022 1:07:29 PM] : Complainttype is:-02
+[12/20/2022 1:07:29 PM] : SeverityType is:-01
+[12/20/2022 1:07:29 PM] : Status is:-01
+[12/20/2022 1:07:29 PM] : UserID1 is:-KANDEE
+[12/20/2022 1:07:31 PM] : selected sequence:elected sequence!
+[12/20/2022 1:07:31 PM] : Complain Form Load
+[12/20/2022 1:07:32 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 1:07:35 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:07:36 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:07:36 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:07:37 PM] : res:False
+[12/20/2022 1:07:37 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 1:07:38 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 1:07:39 PM] : IsStatus is:True
+[12/20/2022 1:07:46 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 1:18:55 PM] : Total Record Count Is:72
+[12/20/2022 1:19:01 PM] : Total Record Count Is:72
+[12/20/2022 1:19:01 PM] : Complain Form Load
+[12/20/2022 1:19:01 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:19:04 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:19:05 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:19:45 PM] : Complain Form Load
+[12/20/2022 1:20:07 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:20:13 PM] : complainForm.CFPB  is:-False
+[12/20/2022 1:20:13 PM] : complainForm.Close  is:-True
+[12/20/2022 1:20:13 PM] : Complainttype is:-02
+[12/20/2022 1:20:13 PM] : SeverityType is:-01
+[12/20/2022 1:20:13 PM] : Status is:-01
+[12/20/2022 1:20:13 PM] : UserID1 is:-KANDEE
+[12/20/2022 1:20:13 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:20:14 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:20:14 PM] : selected sequence:elected sequence!
+[12/20/2022 1:20:15 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 1:20:21 PM] : res:False
+[12/20/2022 1:20:21 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 1:20:22 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 1:20:23 PM] : IsStatus is:True
+[12/20/2022 1:20:26 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 1:33:36 PM] : Total Record Count Is:73
+[12/20/2022 1:33:39 PM] : Total Record Count Is:73
+[12/20/2022 1:33:39 PM] : Complain Form Load
+[12/20/2022 1:33:39 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:33:41 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:33:41 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:34:11 PM] : Complain Form Load
+[12/20/2022 1:34:14 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:34:19 PM] : complainForm.CFPB  is:-False
+[12/20/2022 1:34:19 PM] : complainForm.Close  is:-True
+[12/20/2022 1:34:19 PM] : Complainttype is:-02
+[12/20/2022 1:34:19 PM] : SeverityType is:-01
+[12/20/2022 1:34:19 PM] : Status is:-01
+[12/20/2022 1:34:19 PM] : UserID1 is:-KANDEE
+[12/20/2022 1:34:19 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:34:20 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 1:34:21 PM] : selected sequence:elected sequence!
+[12/20/2022 1:34:22 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 1:34:24 PM] : res:False
+[12/20/2022 1:34:24 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 1:34:25 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 1:34:26 PM] : IsStatus is:True
+[12/20/2022 1:34:29 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 2:34:58 PM] : Total Record Count Is:74
+[12/20/2022 2:35:02 PM] : Total Record Count Is:74
+[12/20/2022 2:35:02 PM] : Complain Form Load
+[12/20/2022 2:35:02 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:35:04 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:35:04 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:35:58 PM] : Complain Form Load
+[12/20/2022 2:36:04 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:36:10 PM] : complainForm.CFPB  is:-False
+[12/20/2022 2:36:10 PM] : complainForm.Close  is:-True
+[12/20/2022 2:36:10 PM] : Complainttype is:-02
+[12/20/2022 2:36:10 PM] : SeverityType is:-01
+[12/20/2022 2:36:10 PM] : Status is:-01
+[12/20/2022 2:36:10 PM] : UserID1 is:-KANDEE
+[12/20/2022 2:36:10 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:36:11 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:36:11 PM] : selected sequence:elected sequence!
+[12/20/2022 2:36:12 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 2:36:19 PM] : res:False
+[12/20/2022 2:36:19 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 2:36:20 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 2:36:22 PM] : IsStatus is:True
+[12/20/2022 2:36:58 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 2:38:02 PM] : Complain Form Load
+[12/20/2022 2:38:07 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:38:08 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:38:09 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:38:09 PM] : complainForm.CFPB  is:-False
+[12/20/2022 2:38:09 PM] : complainForm.Close  is:-True
+[12/20/2022 2:38:09 PM] : Complainttype is:-02
+[12/20/2022 2:38:09 PM] : SeverityType is:-01
+[12/20/2022 2:38:09 PM] : Status is:-01
+[12/20/2022 2:38:09 PM] : UserID1 is:-KANDEE
+[12/20/2022 2:38:17 PM] : selected sequence:elected sequence!
+[12/20/2022 2:38:17 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 2:38:18 PM] : res:False
+[12/20/2022 2:38:18 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 2:38:19 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 2:38:21 PM] : IsStatus is:True
+[12/20/2022 2:38:31 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 2:43:22 PM] : Complain Form Load
+[12/20/2022 2:43:44 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:43:48 PM] : Complain Form Load
+[12/20/2022 2:43:48 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:43:49 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:43:50 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:43:51 PM] : complainForm.CFPB  is:-False
+[12/20/2022 2:43:51 PM] : complainForm.Close  is:-True
+[12/20/2022 2:43:51 PM] : Complainttype is:-02
+[12/20/2022 2:43:51 PM] : SeverityType is:-01
+[12/20/2022 2:43:51 PM] : Status is:-01
+[12/20/2022 2:43:51 PM] : UserID1 is:-KANDEE
+[12/20/2022 2:43:51 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:43:53 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:43:53 PM] : selected sequence:elected sequence!
+[12/20/2022 2:43:54 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 2:43:58 PM] : res:False
+[12/20/2022 2:43:58 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 2:43:58 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 2:44:00 PM] : IsStatus is:True
+[12/20/2022 2:44:07 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 2:59:48 PM] : Total Record Count Is:77
+[12/20/2022 2:59:53 PM] : Total Record Count Is:77
+[12/20/2022 2:59:53 PM] : Complain Form Load
+[12/20/2022 2:59:53 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:59:55 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 2:59:55 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 3:00:35 PM] : complainForm.CFPB  is:-False
+[12/20/2022 3:00:35 PM] : complainForm.Close  is:-True
+[12/20/2022 3:00:35 PM] : Complainttype is:-02
+[12/20/2022 3:00:35 PM] : SeverityType is:-01
+[12/20/2022 3:00:35 PM] : Status is:-01
+[12/20/2022 3:00:35 PM] : UserID1 is:-KANDEE
+[12/20/2022 3:00:37 PM] : selected sequence:elected sequence!
+[12/20/2022 3:00:38 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 3:00:43 PM] : res:False
+[12/20/2022 3:00:43 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 3:00:43 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 3:00:45 PM] : IsStatus is:True
+[12/20/2022 3:00:48 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 3:26:30 PM] : Total Record Count Is:78
+[12/20/2022 3:26:33 PM] : Total Record Count Is:78
+[12/20/2022 3:26:33 PM] : Complain Form Load
+[12/20/2022 3:26:33 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 3:26:34 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 3:26:35 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 3:28:01 PM] : complainForm.CFPB  is:-False
+[12/20/2022 3:28:01 PM] : complainForm.Close  is:-True
+[12/20/2022 3:28:01 PM] : Complainttype is:-02
+[12/20/2022 3:28:01 PM] : SeverityType is:-01
+[12/20/2022 3:28:01 PM] : Status is:-01
+[12/20/2022 3:28:01 PM] : UserID1 is:-KANDEE
+[12/20/2022 3:28:03 PM] : selected sequence:elected sequence!
+[12/20/2022 3:28:04 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 3:28:09 PM] : res:False
+[12/20/2022 3:28:09 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 3:28:09 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 3:28:11 PM] : IsStatus is:True
+[12/20/2022 3:28:11 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 3:28:21 PM] : Complain Form Load
+[12/20/2022 3:28:21 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 3:28:22 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 3:28:23 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 3:28:23 PM] : Total Record Count Is:79
+[12/20/2022 3:28:40 PM] : Update Is:Updated Has been Done
+[12/20/2022 3:28:41 PM] : Total Record Count Is:79
+[12/20/2022 3:42:06 PM] : Total Record Count Is:79
+[12/20/2022 3:42:09 PM] : Total Record Count Is:79
+[12/20/2022 3:42:09 PM] : Complain Form Load
+[12/20/2022 3:42:09 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 3:42:11 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 3:42:12 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 4:54:58 PM] : Total Record Count Is:79
+[12/20/2022 4:55:04 PM] : Total Record Count Is:79
+[12/20/2022 4:55:04 PM] : Complain Form Load
+[12/20/2022 4:55:04 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 4:55:05 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 4:55:06 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 4:57:28 PM] : complainForm.CFPB  is:-False
+[12/20/2022 4:57:28 PM] : complainForm.Close  is:-True
+[12/20/2022 4:57:28 PM] : Complainttype is:-02
+[12/20/2022 4:57:28 PM] : SeverityType is:-01
+[12/20/2022 4:57:28 PM] : Status is:-01
+[12/20/2022 4:57:28 PM] : UserID1 is:-KANDEE
+[12/20/2022 4:57:29 PM] : selected sequence:elected sequence!
+[12/20/2022 4:57:30 PM] : About to call samrt code pgm:About to call samrt code pgm!
+[12/20/2022 4:57:35 PM] : res:False
+[12/20/2022 4:57:35 PM] : About to insert complaint:About to insert complaint!
+[12/20/2022 4:57:36 PM] : About to insert sctrac 2 is:About to insert sctrac 2!
+[12/20/2022 4:57:38 PM] : IsStatus is:True
+[12/20/2022 4:57:38 PM] : Complain Result is:-Complain Successfully Saved
+[12/20/2022 4:57:54 PM] : Complain Form Load
+[12/20/2022 4:57:54 PM] : Complaint type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 4:57:55 PM] : Severity Type='System.Data.Odbc.OdbcCommand'
+[12/20/2022 4:57:55 PM] : Total Record Count Is:80
+[12/20/2022 4:57:55 PM] : Reported Through='System.Data.Odbc.OdbcCommand'
+[12/20/2022 4:58:11 PM] : Update Is:Updated Has been Done
+[12/20/2022 4:58:13 PM] : Total Record Count Is:80

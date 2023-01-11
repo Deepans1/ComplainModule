@@ -1,0 +1,14 @@
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\bin\Debug\net6.0\SmartCodeLib.deps.json
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\bin\Debug\net6.0\SmartCodeLib.dll
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\bin\Debug\net6.0\SmartCodeLib.pdb
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\bin\Debug\net6.0\Q2base.dll
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\obj\Debug\net6.0\SmartCodeLib.csproj.AssemblyReference.cache
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\obj\Debug\net6.0\SmartCodeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\obj\Debug\net6.0\SmartCodeLib.AssemblyInfoInputs.cache
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\obj\Debug\net6.0\SmartCodeLib.AssemblyInfo.cs
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\obj\Debug\net6.0\SmartCodeLib.csproj.CoreCompileInputs.cache
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\obj\Debug\net6.0\SmartCodeLib.csproj.CopyComplete
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\obj\Debug\net6.0\SmartCodeLib.dll
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\obj\Debug\net6.0\refint\SmartCodeLib.dll
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\obj\Debug\net6.0\SmartCodeLib.pdb
+D:\Office\Project\ComplaintModuleMVC\ComplainModule\SmartCodeLib\obj\Debug\net6.0\ref\SmartCodeLib.dll

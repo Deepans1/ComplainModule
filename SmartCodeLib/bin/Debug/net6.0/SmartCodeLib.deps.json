@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SmartCodeLib/1.0.0": {
+        "dependencies": {
+          "Q2base": "2.0.0.6"
+        },
+        "runtime": {
+          "SmartCodeLib.dll": {}
+        }
+      },
+      "Q2base/2.0.0.6": {
+        "runtime": {
+          "Q2base.dll": {
+            "assemblyVersion": "2.0.0.6",
+            "fileVersion": "2.0.0.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartCodeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Q2base/2.0.0.6": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

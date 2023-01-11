@@ -1,0 +1,1041 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\theep\\.nuget\\packages\\bootstrap\\5.2.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ComplainModule.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ComplainModule.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\1fFr.gif",
+      "PackagePath": "staticwebassets\\Images\\1fFr.gif"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Add.png",
+      "PackagePath": "staticwebassets\\Images\\Add.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\BackgroundSuccess.jpg",
+      "PackagePath": "staticwebassets\\Images\\BackgroundSuccess.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Body1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Body1.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Close-2-icon.png",
+      "PackagePath": "staticwebassets\\Images\\Close-2-icon.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Complaints(Body).jpg",
+      "PackagePath": "staticwebassets\\Images\\Complaints(Body).jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Complaints(Footer).jpg",
+      "PackagePath": "staticwebassets\\Images\\Complaints(Footer).jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Complaints(Header).jpg",
+      "PackagePath": "staticwebassets\\Images\\Complaints(Header).jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Complaints_1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Complaints_1.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Exit.png",
+      "PackagePath": "staticwebassets\\Images\\Exit.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Image.PNG",
+      "PackagePath": "staticwebassets\\Images\\Image.PNG"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\New.png",
+      "PackagePath": "staticwebassets\\Images\\New.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\NewComplaint.png",
+      "PackagePath": "staticwebassets\\Images\\NewComplaint.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Sorry.jpg",
+      "PackagePath": "staticwebassets\\Images\\Sorry.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\Spin-1s-200px.gif",
+      "PackagePath": "staticwebassets\\Images\\Spin-1s-200px.gif"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeBlue\\Blue-Body.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeBlue\\Blue-Body.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeBlue\\Body-BlueNew.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeBlue\\Body-BlueNew.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeBlue\\Body_StlyeBlue.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeBlue\\Body_StlyeBlue.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeBlue\\Footer_StlyeBlue.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeBlue\\Footer_StlyeBlue.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeBlue\\HeaderBlue1.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeBlue\\HeaderBlue1.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeBlue\\Header_StlyeBlue.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeBlue\\Header_StlyeBlue.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeBlue\\headerBlue.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeBlue\\headerBlue.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeOrange\\Body_StyleOrange.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeOrange\\Body_StyleOrange.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeOrange\\Footer_StyleOrange.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeOrange\\Footer_StyleOrange.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeOrange\\HeaderOrange.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeOrange\\HeaderOrange.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeOrange\\Header_StyleOrange.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeOrange\\Header_StyleOrange.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeOrange\\bgd.png",
+      "PackagePath": "staticwebassets\\Images\\ThemeOrange\\bgd.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeOrange\\headerOange.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeOrange\\headerOange.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemePurple\\Body_StylePurple.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemePurple\\Body_StylePurple.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemePurple\\Footer_StlyePurple.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemePurple\\Footer_StlyePurple.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemePurple\\HeaderPurple.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemePurple\\HeaderPurple.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemePurple\\Header_StylePurple.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemePurple\\Header_StylePurple.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\ThemeWhite\\HeaderWhite.jpg",
+      "PackagePath": "staticwebassets\\Images\\ThemeWhite\\HeaderWhite.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\btn1.png",
+      "PackagePath": "staticwebassets\\Images\\btn1.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\btn2.png",
+      "PackagePath": "staticwebassets\\Images\\btn2.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\btn3.png",
+      "PackagePath": "staticwebassets\\Images\\btn3.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(1).png",
+      "PackagePath": "staticwebassets\\Images\\button(1).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(10).png",
+      "PackagePath": "staticwebassets\\Images\\button(10).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(11).png",
+      "PackagePath": "staticwebassets\\Images\\button(11).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(12)Exit.png",
+      "PackagePath": "staticwebassets\\Images\\button(12)Exit.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(12)List.png",
+      "PackagePath": "staticwebassets\\Images\\button(12)List.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(12)Update.png",
+      "PackagePath": "staticwebassets\\Images\\button(12)Update.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(2).png",
+      "PackagePath": "staticwebassets\\Images\\button(2).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(3).png",
+      "PackagePath": "staticwebassets\\Images\\button(3).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(4).png",
+      "PackagePath": "staticwebassets\\Images\\button(4).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(5).png",
+      "PackagePath": "staticwebassets\\Images\\button(5).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(7).png",
+      "PackagePath": "staticwebassets\\Images\\button(7).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(8).png",
+      "PackagePath": "staticwebassets\\Images\\button(8).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(9).png",
+      "PackagePath": "staticwebassets\\Images\\button(9).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button(NewCmplnt).png",
+      "PackagePath": "staticwebassets\\Images\\button(NewCmplnt).png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\button.jpg",
+      "PackagePath": "staticwebassets\\Images\\button.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\calender.png",
+      "PackagePath": "staticwebassets\\Images\\calender.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\closed.jpg",
+      "PackagePath": "staticwebassets\\Images\\closed.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\cross.png",
+      "PackagePath": "staticwebassets\\Images\\cross.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\exception copy.jpg",
+      "PackagePath": "staticwebassets\\Images\\exception copy.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\list.png",
+      "PackagePath": "staticwebassets\\Images\\list.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\loading.gif",
+      "PackagePath": "staticwebassets\\Images\\loading.gif"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\processing.gif",
+      "PackagePath": "staticwebassets\\Images\\processing.gif"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\save.jpg",
+      "PackagePath": "staticwebassets\\Images\\save.jpg"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\save.png",
+      "PackagePath": "staticwebassets\\Images\\save.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\symbol-check-icon.png",
+      "PackagePath": "staticwebassets\\Images\\symbol-check-icon.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Images\\tick.png",
+      "PackagePath": "staticwebassets\\Images\\tick.png"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221129.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221129.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221201.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221201.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221202.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221202.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221205.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221205.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221206.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221206.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221208.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221208.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221209.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221209.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221211.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221211.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221212.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221212.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221213.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221213.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221214.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221214.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221215.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221215.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221219.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221219.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221220.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221220.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221221.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221221.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221222.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221222.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221223.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221223.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221227.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221227.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221228.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221228.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20221229.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20221229.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20230103.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20230103.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20230104.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20230104.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20230109.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20230109.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20230110.txt",
+      "PackagePath": "staticwebassets\\Logs\\QtxLog\\QTXLog_20230110.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Theme\\Defaulthite.css",
+      "PackagePath": "staticwebassets\\Theme\\Defaulthite.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Theme\\StyleSheet1.css",
+      "PackagePath": "staticwebassets\\Theme\\StyleSheet1.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Theme\\ThemeBlue.css",
+      "PackagePath": "staticwebassets\\Theme\\ThemeBlue.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Theme\\ThemeOrange.css",
+      "PackagePath": "staticwebassets\\Theme\\ThemeOrange.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Theme\\ThemePurple.css",
+      "PackagePath": "staticwebassets\\Theme\\ThemePurple.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Theme\\ThemeWhite.css",
+      "PackagePath": "staticwebassets\\Theme\\ThemeWhite.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Theme\\calendar-blue.css",
+      "PackagePath": "staticwebassets\\Theme\\calendar-blue.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.ComplainModule.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.ComplainModule.props",
+      "PackagePath": "build\\ComplainModule.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ComplainModule.props",
+      "PackagePath": "buildMultiTargeting\\ComplainModule.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.ComplainModule.props",
+      "PackagePath": "buildTransitive\\ComplainModule.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
