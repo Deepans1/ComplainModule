@@ -8,6 +8,7 @@ namespace ComplainModule.Controllers
     public class ComplainListController : Controller
     {
         #region " Variables "
+
         int client_code1411;
         string user_ID13;
         int Company_Num14;
