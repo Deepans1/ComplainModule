@@ -160,7 +160,8 @@ keyframes spin {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
  
 <script>
-    $('#ListId').click(function () {
+    $('#ListId').click(function ()
+    {
         $.ajax({
            
             type: "Get",
@@ -190,7 +191,8 @@ keyframes spin {
 <script type="text/javascript">
     $(function () 
     {
-        $("body").on('click', '#btnEdit', function () {
+        $("body").on('click', '#btnEdit', function ()
+        {
             $("#MyPopup").modal("hide");
             var obj = {};
             obj.Id = $(this).attr('data-id');
@@ -241,9 +243,10 @@ keyframes spin {
                 if (data.message == "updatesuccess")
                 {
                     swal({ title: "Complain Update!", text: "Complain Updated SuccessFully Now!", icon: "success", button: "Ok!", });
-                      setTimeout(function () {
+                      setTimeout(function ()
+                      {
                                 //in between i have a huge code that takes time to run
-                        $("#img").hide();
+                       $("#img").hide();
                             }, 10);
                     $("#MyPopup").modal("hide");
                     window.location.reload();

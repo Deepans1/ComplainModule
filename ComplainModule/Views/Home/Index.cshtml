@@ -396,39 +396,41 @@
                     if (data.message == "Savesuccess")
                     {
                        swal({ title: "Complain Save!", text: "Complain Save SuccessFully Now!", icon: "success", button: "Ok!", });
-                       setTimeout(function () {
+                       setTimeout(function () 
+                       {
                           $("#img").hide();
                        }, 10);
                     }  
                     if (data.message == "alreadyexit")
                     {
                          swal({ title: "Description exist!", text: "Description title already exist!", icon: "error", button: "Ok!", });
-                            $("#img").hide();
+                         $("#img").hide();
                     }
 
                     if (data.message == "failed") 
                     {
-                       swal({ title: "Error in the Database!", text: "Saving Error in the Database!!", icon: "error", button: "Ok!", });
-                            $("#img").hide();
-                     }
+                        swal({ title: "Error in the Database!", text: "Saving Error in the Database!!", icon: "error", button: "Ok!", });
+                        $("#img").hide();
+                    }
 
-                        if (data.message == "invalid")
-                        {
+                    if (data.message == "invalid")
+                    {
                         swal({ title: "Invalid!", text: "Invalid user id!!", icon: "error", button: "Ok!", });
-                            $("#img").hide();
+                        $("#img").hide();
                     }
                },
                 error: function (data)
                 {
-                        if (data.message == "Exmessage") {
-                            swal({ title: "wrong!", text: "Something went wrong please check!", icon: "error", button: "Ok!", });
-                            $("#img").hide();
+                   if (data.message == "Exmessage") 
+                   {
+                       swal({ title: "wrong!", text: "Something went wrong please check!", icon: "error", button: "Ok!", });
+                       $("#img").hide();
                    }
                 }
                 
             });
       }
-        form.addClass('was-validated');
+      form.addClass('was-validated');
       
     });
 </script>
@@ -505,8 +507,7 @@
                    var Client_FDF = data[0].client_code;
                    var UserId=data[0].user_ID;
                    var ClientId=data[0].clientID;
-                window.location.href = "/ComplaintsSetup/ComplainList/Index?userID=" + UserId + "&clientcode=" + Client_FDF + "&CompanyNum=" + Company + "&CaseNum=" + CaseNo + "&ClientID=" + ClientId;
-               
+                   window.location.href = "/ComplaintsSetup/ComplainList/Index?userID=" + UserId + "&clientcode=" + Client_FDF + "&CompanyNum=" + Company + "&CaseNum=" + CaseNo + "&ClientID=" + ClientId;
             }
         });
     });
