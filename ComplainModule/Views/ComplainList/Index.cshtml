@@ -6,6 +6,7 @@
     ViewData["Title"] = "Complain List";
 }
 <head>
+
     <style type="text/css">
         .card-body [class*="col-"] 
         {
@@ -52,6 +53,7 @@ keyframes spin {
             font-size: 12px;
         }
     </style>
+
 </head>
 <h2 id="header"></h2>
  <body>
@@ -79,9 +81,9 @@ keyframes spin {
                 </div>
             </div>
            
-            <div class="table-responsive" style="padding: 50px;">
+            <div class="container" style="overflow-x:auto;">
                 <div class="row">
-                    <table class="table table-striped table-hover" style="width:100%" id="Complain">
+                    <table class="table table-striped table-hover table-responsive" style="width:100%" id="Complain">
                         <thead>
                             <tr>
                                 <th id="tableclass">CompanyNo</th>

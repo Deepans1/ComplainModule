@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+ynnslVQI78GmBdUK1Rkp5L9ZScYYw0dfudENnssvqM=",
+  "Hash": "hWuFh2/EZ5e+FhPgc5yjvkEsPq8c9X4d/RAMpRGQac8=",
   "Source": "ComplainModule",
   "BasePath": "_content/ComplainModule",
   "Mode": "Default",
@@ -4248,6 +4248,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Logs\\QtxLog\\QTXLog_20230110.txt"
+    },
+    {
+      "Identity": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20230111.txt",
+      "SourceId": "ComplainModule",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\",
+      "BasePath": "_content/ComplainModule",
+      "RelativePath": "Logs/QtxLog/QTXLog_20230111.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Logs\\QtxLog\\QTXLog_20230111.txt"
+    },
+    {
+      "Identity": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20230117.txt",
+      "SourceId": "ComplainModule",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\",
+      "BasePath": "_content/ComplainModule",
+      "RelativePath": "Logs/QtxLog/QTXLog_20230117.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Logs\\QtxLog\\QTXLog_20230117.txt"
     },
     {
       "Identity": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Theme\\calendar-blue.css",

@@ -16,3 +16,19 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.cls-tbl-fnt {
+    font-size: 12px;
+}
+
+.element.style {
+    width: 10px;
+}
+
+.body {
+    background-color: white
+}
+
+.cls-lbl-fnt {
+    font-size: 14px;
+}
