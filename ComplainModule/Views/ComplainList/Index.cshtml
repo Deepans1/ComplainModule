@@ -47,6 +47,11 @@ keyframes spin {
     animation: spin .8s linear infinite;
 }
     </style>
+    <style>
+        .cls-tbl-fnt {
+            font-size: 12px;
+        }
+    </style>
 </head>
 <h2 id="header"></h2>
  <body>
@@ -74,10 +79,10 @@ keyframes spin {
                 </div>
             </div>
            
-            <div class="container" style="padding: 50px;">
+            <div class="table-responsive" style="padding: 50px;">
                 <div class="row">
                     <table class="table table-striped table-hover" style="width:100%" id="Complain">
-                        <thead class=thead-dark>
+                        <thead>
                             <tr>
                                 <th id="tableclass">CompanyNo</th>
                                 <th id="tableclass1">CaseNo</th>
@@ -86,11 +91,12 @@ keyframes spin {
                                 <th id="tableclass4">Action</th>
                             </tr>
                         </thead>
+                        <tbody>
                         @if (ViewBag.List != null)
                         {
                             @foreach (var Complainist in ViewBag.List)
                             {
-                                <tr>
+                                    <tr class="cls-tbl-fnt">
                                     <td>@Complainist.Company</td>
                                     <td>@Complainist.CaseNo</td>
                                     <td>@Complainist.Status</td>
@@ -100,6 +106,7 @@ keyframes spin {
                                 </tr>
                             }
                         }
+                        </tbody>
                     </table>
                 </div>
                 </div>
