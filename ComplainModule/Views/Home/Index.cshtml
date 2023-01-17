@@ -401,6 +401,7 @@
                           $("#img").hide();
                        }, 10);
                     }  
+
                     if (data.message == "alreadyexit")
                     {
                          swal({ title: "Description exist!", text: "Description title already exist!", icon: "error", button: "Ok!", });
@@ -427,7 +428,6 @@
                        $("#img").hide();
                    }
                 }
-                
             });
       }
       form.addClass('was-validated');
@@ -484,7 +484,6 @@
             swal("Follow up date should not be a past date!!!", "Error!", "error");
             document.getElementById('Follow').value = "";
         }
-
     });
 </script>
 
