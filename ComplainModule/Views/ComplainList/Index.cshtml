@@ -7,6 +7,8 @@
 }
 <head>
 
+    
+
     <style type="text/css">
         .card-body [class*="col-"] 
         {
@@ -50,7 +52,7 @@ keyframes spin {
     </style>
     <style>
         .cls-tbl-fnt {
-            font-size: 12px;
+            font-size: 15px;
         }
     </style>
 
@@ -103,7 +105,10 @@ keyframes spin {
                                     <td>@Complainist.CaseNo</td>
                                     <td>@Complainist.Status</td>
                                     <td>@Complainist.Complaintfilledby</td>
-                                    <td><a href="#" id="btnEdit" class="css_btn_class btn-sm" data-id=@Complainist.ClientCode>Edit</a></td>
+                                    <td>
+                                            <button type="button" id="btnEdit" class="css_btn_class btn-sm" data-id=@Complainist.ClientCode><i class="fas fa-edit"></i></button>
+                                    </td>
+                                   @* <td><a href="#" id="btnEdit" class="css_btn_class btn-sm" data-id=@Complainist.ClientCode>Edit</a></td>*@
                                     </tr>
                             }
                         }
