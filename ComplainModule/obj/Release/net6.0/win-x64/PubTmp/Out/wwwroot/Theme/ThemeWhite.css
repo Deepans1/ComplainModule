@@ -79,14 +79,12 @@
     background-image: linear-gradient(to bottom, #D1D6D6 0%, #D1D6D6 45%);
 }
 
-.css_btn_class:hover
-{
-    background: -webkit-gradient( linear, left top, left bottom, color-stop(57%, #d02416), color-stop(48%, #d02416) );
-    background: -moz-linear-gradient( center top, #d02416 57%, #d02416 48% );
-    background: -ms-linear-gradient( top, #d02416 57%, #d02416 48% );
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d02416', endColorstr='#d02416');
-   
-}
+    .css_btn_class:hover {
+        background: -webkit-gradient( linear, left top, left bottom, color-stop(57%, #d02416), color-stop(48%, #d02416) );
+        background: -moz-linear-gradient( center top, #d02416 57%, #d02416 48% );
+        background: -ms-linear-gradient( top, #d02416 57%, #d02416 48% );
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF');
+    }
 
 .css_btn_class:active
 {
