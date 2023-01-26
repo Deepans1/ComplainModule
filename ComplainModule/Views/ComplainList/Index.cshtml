@@ -55,7 +55,11 @@ keyframes spin {
             font-size: 15px;
         }
     </style>
-   
+    <style>
+        #dataTables_Filter {
+            float: left;
+        }
+    </style>
 </head>
 <h2 id="header"></h2>
  <body>
@@ -198,7 +202,8 @@ keyframes spin {
     {
         $('#Complain').dataTable
         ({
-            "searching": false
+            "searching": true
+             
         });
     });
 </script>
@@ -216,6 +221,8 @@ keyframes spin {
             var Seq = obj.Id;
             $.ajax({
                 url: "/ComplaintsSetup/ComplainList/BindList?Company=" + Company + "&CaseNo=" + CaseNo + "&Seq=" + Seq,
+
+              //  url: "../ComplainList/BindList?Company=" + Company + "&CaseNo=" + CaseNo + "&Seq=" + Seq,
                 type: 'GET',
                 dataType: 'json',
                 contentType: "application/json; charset=utf-8",
@@ -260,7 +267,7 @@ keyframes spin {
                     swal({ title: "Complain Update!", text: "Complain Updated SuccessFully Now!", icon: "success", button: "Ok!", });
                       setTimeout(function ()
                       {
-                                //in between i have a huge code that takes time to run
+                         //in between i have a huge code that takes time to run
                        $("#img").hide();
                             }, 10);
                     $("#MyPopup").modal("hide");

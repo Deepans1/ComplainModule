@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TZmh+hfnuSy38ITNBVMFFeCQN9kNQUuH2TQlHd6BH1M=",
+  "Hash": "1adMDswz85nmUTV8fl3afRhHT7vJUsoqcq5VRIm/UMc=",
   "Source": "ComplainModule",
   "BasePath": "_content/ComplainModule",
   "Mode": "Default",
@@ -4299,6 +4299,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Logs\\QtxLog\\QTXLog_20230119.txt"
+    },
+    {
+      "Identity": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Logs\\QtxLog\\QTXLog_20230125.txt",
+      "SourceId": "ComplainModule",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\",
+      "BasePath": "_content/ComplainModule",
+      "RelativePath": "Logs/QtxLog/QTXLog_20230125.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Logs\\QtxLog\\QTXLog_20230125.txt"
     },
     {
       "Identity": "E:\\Office Q2\\Office\\Project\\ComplaintModuleMVC\\ComplainModule\\ComplainModule\\wwwroot\\Theme\\calendar-blue.css",
